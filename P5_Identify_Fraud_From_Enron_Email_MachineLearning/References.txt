@@ -1,0 +1,16 @@
+List of Sources:
+
+
+http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+https://github.com/scikit-learn
+
+http://scikit-learn.org/stable/
+
+https://github.com/scikit-learn
+
+http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
+https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet#gs.afVAVCg
