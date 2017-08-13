@@ -1,0 +1,2534 @@
+id,key,value,type
+4269131,highway,trunk,regular
+4269131,junction,roundabout,regular
+4269131,lanes,2,regular
+4269131,maxspeed,60,regular
+4269131,network,S,regular
+4269131,ref,S 83,regular
+4749363,bicycle,yes,regular
+4749363,cycleway,lane,regular
+4749363,highway,residential,regular
+4749363,maxspeed,40,regular
+4749363,name,Forest Street,regular
+4749363,source,Yahoo,regular
+4749363,name,Collins 1936,source
+4826924,highway,secondary,regular
+4826924,name,Grantham Street,regular
+4826924,source,nearmap,regular
+4892913,highway,residential,regular
+4892913,lit,yes,regular
+4892913,maxspeed,50,regular
+4892913,name,South Daly Street,regular
+4965719,highway,residential,regular
+4965719,lit,yes,regular
+4965719,maxspeed,50,regular
+4965719,name,Guthrie Street,regular
+5003779,cycleway,lane,regular
+5003779,highway,residential,regular
+5003779,maxspeed,50,regular
+5003779,name,McIlwraith Street,regular
+5003779,oneway,yes,regular
+5026860,highway,residential,regular
+5026860,lit,yes,regular
+5026860,maxspeed,50,regular
+5026860,name,Frederick Street,regular
+5067101,highway,residential,regular
+5067101,lit,yes,regular
+5067101,maxspeed,50,regular
+5067101,name,Eddy Street,regular
+5067101,oneway,yes,regular
+5085594,highway,residential,regular
+5085594,name,Keppel Street,regular
+5085594,oneway,yes,regular
+5135006,cycleway,lane,regular
+5135006,highway,primary,regular
+5135006,lanes,2,regular
+5135006,maxspeed,60,regular
+5135006,name,Peel Street,regular
+5135006,network,S,regular
+5135006,oneway,yes,regular
+5135006,ref,S 55,regular
+5135006,source,nearmap,regular
+5234957,bicycle,no,regular
+5234957,destination,Kings Way;South Melbourne,regular
+5234957,highway,motorway_link,regular
+5234957,lanes,2,regular
+5234957,name,Kings Way Off Ramp,regular
+5234957,oneway,yes,regular
+5596328,highway,residential,regular
+5596328,name,Turnbull Court,regular
+5865177,highway,residential,regular
+5865177,lit,yes,regular
+5865177,maxspeed,50,regular
+5865177,name,Manchester Lane,regular
+7144210,created_by,Potlatch 0.10b,regular
+7144210,highway,service,regular
+7144210,name,Hotham Place,regular
+8037595,bicycle,yes,regular
+8037595,foot,yes,regular
+8037595,highway,pedestrian,regular
+8037595,motorcar,private,regular
+8037595,oneway,no,regular
+8103583,access,yes,regular
+8103583,bicycle,yes,regular
+8103583,cycleway,no,regular
+8103583,foot,yes,regular
+8103583,highway,residential,regular
+8103583,maxspeed,40,regular
+8103583,motor_vehicle,yes,regular
+8103583,name,McCracken Street,regular
+8103583,oneway,no,regular
+8103583,sidewalk,both,regular
+8103583,source,Yahoo,regular
+8103583,name,survey,source
+8103583,surface,asphalt,regular
+8597261,highway,residential,regular
+8597261,name,Combermere Street,regular
+8597261,source,Yahoo,regular
+8597261,name,survey,source
+8597504,highway,residential,regular
+8597504,name,Cheffers Street,regular
+8597504,source,Yahoo,regular
+8597504,name,survey,source
+8649411,highway,residential,regular
+8649411,name,Grace Street,regular
+8649411,source,Yahoo,regular
+8649411,name,survey,source
+8708528,highway,residential,regular
+8708528,name,Holdsworth Street,regular
+8708528,source,Yahoo,regular
+8708528,name,survey,source
+8715799,access,yes,regular
+8715799,bicycle,yes,regular
+8715799,cycleway,no,regular
+8715799,foot,yes,regular
+8715799,highway,residential,regular
+8715799,maxspeed,50,regular
+8715799,motor_vehicle,yes,regular
+8715799,name,River Avenue,regular
+8715799,sidewalk,both,regular
+8715799,source,Yahoo,regular
+8715799,name,survey,source
+8715799,surface,asphalt,regular
+8738510,highway,residential,regular
+8738510,name,Smith Street,regular
+8738510,source,Yahoo,regular
+8738510,name,Collins 1936,source
+8930775,highway,residential,regular
+8930775,name,Selbourne Street,regular
+8930775,source,Yahoo,regular
+8930775,name,survey,source
+8956936,highway,residential,regular
+8956936,name,Farncomb Street,regular
+8956936,source,Yahoo,regular
+8956936,name,survey,source
+9116762,highway,service,regular
+9116762,name,Ashford Lane,regular
+9116762,source,Yahoo,regular
+9116762,surface,cobblestone,regular
+9132620,highway,residential,regular
+9132620,name,Woodruff Street,regular
+9141608,highway,residential,regular
+9141608,name,The Lairidge,regular
+9141608,source,Yahoo,regular
+9141608,name,photo,source
+9157946,highway,service,regular
+9613511,highway,tertiary,regular
+9613511,junction,roundabout,regular
+9701894,highway,residential,regular
+9701894,lit,yes,regular
+9701894,maxheight,5.6,regular
+9701894,source,https://www.vicroads.vic.gov.au/~/media/files/documents/business-and-industry/heavyvehiclesheightclearanceunderstructureforpermitvehicles.pdf?la=en,maxheight
+9701894,maxspeed,50,regular
+9701894,name,Pattison Street,regular
+9701894,source,Yahoo,regular
+9701894,name,survey,source
+9776021,highway,service,regular
+9776021,name,Koppenberg,regular
+9776021,source,Yahoo,regular
+9866313,highway,residential,regular
+9866313,name,Brighton Street,regular
+10201831,created_by,Potlatch 0.7b,regular
+10201831,highway,service,regular
+10300662,highway,service,regular
+10589430,highway,residential,regular
+10589430,name,Robertson Street,regular
+10589430,oneway,yes,regular
+10589430,source,Yahoo,regular
+10589430,name,survey,source
+10848328,highway,residential,regular
+10848328,lit,yes,regular
+10848328,maxspeed,50,regular
+10848328,name,Eveline Street,regular
+10848328,width,14.3,regular
+11181424,highway,residential,regular
+11181424,lit,yes,regular
+11181424,maxspeed,50,regular
+11181424,name,Melville Street,regular
+12281748,bridge,yes,regular
+12281748,highway,primary,regular
+12281748,layer,1,regular
+12281748,maxspeed,60,regular
+12281748,name,Studley Park Road,regular
+12281748,network,S,regular
+12281748,old_name,Johnston Street Bridge Road,regular
+12281748,ref,S 34,regular
+13078242,highway,unclassified,regular
+13078242,name,Williamstown Road,regular
+13307479,building,yes,regular
+13307479,colour,darkgray,building
+13307479,height,30m,regular
+13307479,layer,1,regular
+13307479,name,Crown Entertainment Complex,regular
+13307479,website,www.crowncasino.com.au,regular
+13307479,wikipedia,en:Crown Casino and Entertainment Complex,regular
+13402388,highway,service,regular
+13402388,name,Younghusband Lane,regular
+13402388,service,alley,regular
+13763077,name,Merri Creek,regular
+13763077,source,"bing,knowledge",regular
+13763077,waterway,stream,regular
+13859277,bridge,yes,regular
+13859277,highway,primary,regular
+13859277,lanes,2,regular
+13859277,layer,1,regular
+13859277,maxspeed,70,regular
+13859277,name,Dynon Road,regular
+13859277,network,S,regular
+13859277,oneway,yes,regular
+13859277,ref,S 50,regular
+13859277,surface,asphalt,regular
+13911193,highway,service,regular
+14415721,highway,residential,regular
+14415721,name,Wimble Street,regular
+14415721,oneway,yes,regular
+14781329,cycleway,lane,regular
+14781329,highway,residential,regular
+14781329,name,Drummond Street,regular
+15285589,highway,residential,regular
+15285589,name,Turner Street,regular
+15285589,surface,asphalt,regular
+15763205,bridge,yes,regular
+15763205,highway,primary,regular
+15763205,layer,1,regular
+15763205,maxspeed,40,regular
+15763205,name,Toorak Road,regular
+15763205,ref,S 26,regular
+16188332,building,yes,regular
+17036049,highway,pedestrian,regular
+17036049,name,Melbourne Central,regular
+18049505,cycleway,lane,regular
+18049505,highway,tertiary,regular
+18049505,name,Kerferd Road,regular
+18049505,oneway,yes,regular
+18049505,ref,S 26,regular
+18049505,source,Bing,regular
+19483270,created_by,Potlatch 0.6,regular
+19483270,highway,service,regular
+19779064,highway,residential,regular
+19779064,name,Gelnview Court,regular
+19779064,source,Yahoo,regular
+19779064,name,survey,source
+19980939,highway,primary_link,regular
+19980939,lanes,2,regular
+19980939,maxspeed,60,regular
+19980939,oneway,yes,regular
+19980939,source,nearmap,regular
+19980939,surface,asphalt,regular
+20558198,highway,residential,regular
+20558198,name,Shakespeare Street,regular
+20803048,highway,cycleway,regular
+20803048,name,Canning Street,regular
+20803048,oneway,yes,regular
+21261871,bicycle,designated,regular
+21261871,foot,designated,regular
+21261871,highway,cycleway,regular
+21261871,name,Merri Creek Trail,regular
+21261871,segregated,no,regular
+21261871,surface,concrete,regular
+21456939,highway,residential,regular
+21456939,name,Neill Street,regular
+21456939,oneway,yes,regular
+21456939,source,Yahoo,regular
+21456939,name,photo,source
+22490977,created_by,JOSM,regular
+22490977,highway,service,regular
+22591162,highway,primary,regular
+22591162,lanes,1,regular
+22591162,name,Prohasky Street,regular
+22591162,oneway,yes,regular
+22591162,ref,S 33,regular
+22597600,highway,unclassified,regular
+22597600,name,Vegemite Way,regular
+22597600,old_name,Cook Street,regular
+22664468,highway,secondary,regular
+22664468,maxspeed,60,regular
+22664468,name,Sturt Street,regular
+22664468,oneway,yes,regular
+22664468,source,nearmap,regular
+22664468,surface,asphalt,regular
+22738984,highway,residential,regular
+22738984,maxspeed,50,regular
+22738984,name,Panther Place,regular
+22738984,oneway,no,regular
+22738984,surface,asphalt,regular
+22760907,foot,yes,regular
+22760907,highway,cycleway,regular
+22760907,surface,asphalt,regular
+22781870,highway,residential,regular
+22781870,name,Westbourne Grove,regular
+22820259,highway,pedestrian,regular
+22820259,name,La Trobe Place,regular
+22873762,highway,service,regular
+22873762,name,Twelfth Avenue,regular
+22873762,source,yahoo trace,regular
+22893332,highway,residential,regular
+22893332,name,Canberra Road,regular
+22893332,source,Yahoo,regular
+22893332,name,photo,source
+22893332,surface,asphalt,regular
+22930192,created_by,Potlatch 0.7,regular
+22930192,highway,service,regular
+22930866,amenity,theatre,regular
+22930866,building,yes,regular
+22930866,name,Comedy Theatre,regular
+22930866,fr,Théâtre de la comédie,name
+22930866,wikidata,Q5151480,regular
+22943927,highway,residential,regular
+22943927,name,Donald Street,regular
+22963234,highway,residential,regular
+22963234,lanes,1,regular
+22963234,name,Gordon Street,regular
+22963234,oneway,yes,regular
+22963234,surface,asphalt,regular
+23000700,highway,residential,regular
+23000700,name,Brooke Street,regular
+23023370,highway,residential,regular
+23023370,name,Station Street,regular
+23051916,highway,residential,regular
+23051916,name,Egan Place,regular
+23051916,oneway,yes,regular
+23051916,source,Yahoo,regular
+23051916,name,photo,source
+23087763,highway,service,regular
+23087763,service,alley,regular
+23143905,highway,unclassified,regular
+23143905,name,Toohey Street,regular
+23144083,highway,residential,regular
+23144083,name,Bernard Street,regular
+23144083,source,Yahoo,regular
+23144083,name,photo,source
+23146570,highway,service,regular
+23160389,highway,residential,regular
+23160389,name,Bell Street,regular
+23160389,source,MMBW,regular
+23201019,highway,residential,regular
+23201019,name,Brady Street,regular
+23201019,oneway,yes,regular
+23201019,source,Yahoo,regular
+23201019,name,Collins 1936,source
+23201019,surface,asphalt,regular
+23552295,highway,secondary_link,regular
+23552295,oneway,yes,regular
+23730383,highway,residential,regular
+23730383,junction,roundabout,regular
+23730383,source,Yahoo,regular
+23766412,building,yes,regular
+23766412,height,26 m,regular
+23766412,name,Mechanical Engineering,regular
+23766412,operator,University of Melbourne,regular
+23766412,unimelb,169,ref
+23781514,highway,residential,regular
+23781514,name,Marsh Street,regular
+23781514,oneway,yes,regular
+23781514,source,Yahoo,regular
+23781514,name,survey,source
+23782643,highway,unclassified,regular
+23782643,lanes,2,regular
+23782643,name,Warrs Road,regular
+23782643,oneway,yes,regular
+23782643,source,Yahoo,regular
+23782643,name,survey,source
+23909898,highway,primary_link,regular
+23909898,lanes,2,regular
+23909898,maxspeed,60,regular
+23909898,name,Punt Road,regular
+23909898,oneway,yes,regular
+24204407,highway,residential,regular
+24204407,name,Peel Street,regular
+24474498,highway,trunk,regular
+24474498,lanes,2,regular
+24474498,maxspeed,70,regular
+24474498,name,Hoddle Street,regular
+24474498,oneway,yes,regular
+24474498,surface,asphalt,regular
+24530718,bridge,yes,regular
+24530718,foot,yes,regular
+24530718,highway,footway,regular
+24530718,layer,1,regular
+24530718,motor_vehicle,no,regular
+24580695,highway,residential,regular
+24580695,name,Danks Street West,regular
+24580695,oneway,yes,regular
+24590900,highway,tertiary,regular
+24590900,name,Birdwood Avenue,regular
+24691933,created_by,Potlatch 0.9c,regular
+24691933,highway,service,regular
+24691933,source,Yahoo,regular
+25094723,highway,residential,regular
+25094723,name,Emma Street,regular
+25184924,city,Parkville,addr
+25184924,housenumber,30,addr
+25184924,postcode,3051,addr
+25184924,street,Flemington Road,addr
+25184924,building,faculty,regular
+25184924,levels,6,building
+25184924,faculty,Science,regular
+25184924,name,Bio21 Institute,regular
+25184924,operator,University of Melbourne,regular
+25184924,unimelb,102,ref
+25427851,highway,primary,regular
+25427851,name,Ingles Street,regular
+25452692,cycleway,lane,regular
+25452692,highway,primary,regular
+25452692,maxspeed,60,regular
+25452692,name,Studley Park Road,regular
+25452692,network,S,regular
+25452692,old_name,Johnston Street Bridge Road,regular
+25452692,ref,S 34;T 2,regular
+25547328,foot,yes,regular
+25547328,highway,cycleway,regular
+25643614,amenity,public_building,regular
+25643614,name,Forest Ranger Station,regular
+25738043,created_by,Potlatch 0.10,regular
+25738043,highway,service,regular
+25738043,source,Yahoo,regular
+25797804,highway,unclassified,regular
+25797804,name,Vickers Drive,regular
+25797804,source,photo,regular
+25927642,created_by,JOSM,regular
+25927642,highway,service,regular
+25972728,created_by,JOSM,regular
+25972728,highway,service,regular
+26113212,created_by,Potlatch 0.10b,regular
+26113212,highway,service,regular
+26113212,source,Yahoo,regular
+26113212,surface,unpaved,regular
+26152600,building,yes,regular
+26262108,created_by,JOSM,regular
+26262108,highway,service,regular
+26405567,highway,residential,regular
+26405567,name,Govan Court,regular
+26405567,source,Yahoo,regular
+26407718,highway,residential,regular
+26407718,name,Elphinstone Street,regular
+26407718,source,yahoo; MMBW,regular
+26428851,highway,residential,regular
+26428851,name,Tamuk Street,regular
+26428851,source,nearmap,regular
+26428851,name,photo,source
+26431410,highway,service,regular
+26431410,name,McDougall Lane,regular
+26561244,highway,service,regular
+26561244,source,Yahoo,regular
+26561244,surface,paved,regular
+26564422,building,yes,regular
+26564422,building_number,52,regular
+26564422,description,RMIT University,regular
+26564422,name,Buliding 52,regular
+26719805,leisure,park,regular
+26719805,name,Lily Reserve,regular
+26719805,source,Yahoo,regular
+26719805,name,survey,source
+26786302,highway,primary,regular
+26786302,maxspeed,60,regular
+26786302,name,City Road,regular
+26786302,network,S,regular
+26786302,oneway,yes,regular
+26786302,ref,S 20,regular
+26833217,layer,-1,regular
+26833217,railway,rail,regular
+26833217,tunnel,yes,regular
+26993466,highway,primary_link,regular
+26993466,lanes,1,regular
+26993466,oneway,yes,regular
+26993466,ref,T 2,regular
+27128505,bicycle,no,regular
+27128505,highway,motorway,regular
+27128505,lanes,1,regular
+27128505,maxspeed,80,regular
+27128505,name,CityLink,regular
+27128505,oneway,yes,regular
+27128505,ref,M1,regular
+27128505,toll,yes,regular
+27128505,website,www.citylink.com.au,regular
+27210894,highway,residential,regular
+27210894,name,Kemp Street,regular
+27373013,created_by,Potlatch 0.10c,regular
+27373013,highway,service,regular
+27462458,housename,Tower 2,addr
+27462458,building,yes,regular
+27462458,levels,4,building
+27508819,bicycle,yes,regular
+27508819,cycleway,track,regular
+27508819,foot,yes,regular
+27508819,highway,cycleway,regular
+27508819,source,Yahoo,regular
+27508819,surface,unpaved,regular
+27550332,highway,residential,regular
+27550332,name,Park Street,regular
+27553142,created_by,Potlatch 0.10d,regular
+27553142,leisure,pitch,regular
+27553142,name,Port Melbourne Bowling Club,regular
+27553142,sport,bowls,regular
+27596519,highway,residential,regular
+27596519,name,Little Graham Street,regular
+27596519,oneway,yes,regular
+27612920,highway,residential,regular
+27612920,name,Rosny Street,regular
+27630751,highway,service,regular
+27698733,bicycle,no,regular
+27698733,bridge,yes,regular
+27698733,highway,motorway_link,regular
+27698733,lanes,2,regular
+27698733,layer,1,regular
+27698733,name,Burnley Street Off Ramp,regular
+27698733,oneway,yes,regular
+27698733,website,www.citylink.com.au,regular
+27749757,highway,residential,regular
+27749757,name,Yarra Street,regular
+27749757,source,Yahoo,regular
+27749757,name,Collins 1936,source
+27749757,surface,asphalt,regular
+27787494,highway,residential,regular
+27787494,name,Stawell Street,regular
+27829083,bridge,yes,regular
+27829083,created_by,Potlatch 0.10e,regular
+27829083,highway,tertiary,regular
+27829083,layer,1,regular
+27829083,name,Mathoura Road,regular
+27863404,highway,residential,regular
+27863404,name,Ottawa Road,regular
+27909231,highway,residential,regular
+27909231,name,Cormorant Place,regular
+27909231,source,survey,regular
+27945487,highway,residential,regular
+27945487,lit,yes,regular
+27945487,maxspeed,50,regular
+27945487,name,Hill Street,regular
+28017585,electrified,contact_line,regular
+28017585,frequency,0,regular
+28017585,gauge,1600,regular
+28017585,maxspeed,65,regular
+28017585,name,Pakenham Line,regular
+28017585,oneway,yes,regular
+28017585,railway,rail,regular
+28017585,voltage,1500,regular
+28160164,highway,residential,regular
+28160164,lit,yes,regular
+28160164,maxspeed,50,regular
+28160164,name,Orari Avenue,regular
+28160164,source,survey,regular
+28315862,building,yes,regular
+28315862,name,Convent Annex,regular
+28375565,highway,secondary_link,regular
+28375565,lanes,1,regular
+28375565,oneway,yes,regular
+28409926,highway,residential,regular
+28409926,name,Greenknowe Court,regular
+28409926,source,Yahoo,regular
+28409926,name,photo,source
+28500803,highway,residential,regular
+28500803,name,Barry Street,regular
+28500803,oneway,yes,regular
+28615551,electrified,contact_line,regular
+28615551,frequency,0,regular
+28615551,gauge,1600,regular
+28615551,maxspeed,80,regular
+28615551,name,Werribee / Williamstown Line,regular
+28615551,oneway,yes,regular
+28615551,railway,rail,regular
+28615551,source,nearmap,regular
+28615551,usage,main,regular
+28615551,voltage,1500,regular
+28755568,highway,service,regular
+28755568,service,alley,regular
+28905208,building,yes,regular
+29058720,leisure,park,regular
+29058720,name,Citizens' Park,regular
+29058720,website,http://www.yarracity.vic.gov.au/Environment/Parks-and-reserves/Citizens-Park/,regular
+29064274,highway,residential,regular
+29064274,name,Elizabeth Street,regular
+29064274,source,MMBW,regular
+29083945,highway,residential,regular
+29083945,name,The Avenue,regular
+29083945,source,MMBW,regular
+29131153,highway,residential,regular
+29131153,name,Muir Street,regular
+29131153,source,MMBW,regular
+29132259,highway,residential,regular
+29132259,name,Cecil Street,regular
+29132259,source,MMBW,regular
+29196786,highway,residential,regular
+29196786,name,Pole Street,regular
+29196786,source,MMBW,regular
+29232800,highway,residential,regular
+29232800,name,Clarendon Street,regular
+29232800,source,MMBW,regular
+29232800,surface,asphalt,regular
+29390913,amenity,parking,regular
+29390913,created_by,Potlatch 0.10f,regular
+29390913,name,Murphy Street Car Park,regular
+30031766,bicycle,yes,regular
+30031766,bridge,yes,regular
+30031766,cycleway,track,regular
+30031766,foot,yes,regular
+30031766,highway,cycleway,regular
+30031766,layer,1,regular
+30031766,name,Arthur Street,regular
+30105503,highway,residential,regular
+30105503,name,Little Iffla Street,regular
+30199736,highway,service,regular
+30199736,maxspeed,40,regular
+30836699,highway,residential,regular
+30836699,name,White Street,regular
+30836699,oneway,yes,regular
+30836699,name,Collins 1936,source
+30836699,surface,asphalt,regular
+30994947,highway,residential,regular
+30994947,name,Armadale Street,regular
+31400796,highway,service,regular
+31400796,name,Belgravia Street,regular
+31804922,highway,residential,regular
+31804922,name,Ellis Street,regular
+31804922,oneway,yes,regular
+31804922,source,Yahoo,regular
+31804922,name,photo,source
+31804922,oneway,survey,source
+31831309,highway,residential,regular
+31831309,name,Glasgow Street,regular
+31831309,oneway,yes,regular
+31831309,source,Yahoo,regular
+31831309,name,Collins 1936,source
+32217070,highway,service,regular
+32296374,created_by,Merkaartor 0.12,regular
+32296374,foot,yes,regular
+32296374,highway,footway,regular
+32452824,highway,residential,regular
+32452824,name,Napier Place,regular
+32653443,highway,footway,regular
+32710391,building,yes,regular
+32710391,name,Victorian Trades Hall,regular
+32746102,leisure,pitch,regular
+32746102,sport,croquet,regular
+32782269,highway,footway,regular
+32869689,highway,service,regular
+32921208,highway,residential,regular
+32921208,lanes,1,regular
+32921208,name,Powlett Street,regular
+32921208,oneway,yes,regular
+32921208,surface,asphalt,regular
+33066958,highway,residential,regular
+33066958,junction,roundabout,regular
+33111348,highway,unclassified,regular
+33111348,name,Coode Road,regular
+33270869,leisure,park,regular
+33411116,highway,residential,regular
+33411116,name,Moore Street,regular
+33657112,highway,footway,regular
+33803199,highway,residential,regular
+33803199,name,Pies Lane,regular
+33869160,foot,yes,regular
+33869160,highway,footway,regular
+34229414,highway,residential,regular
+34229414,lit,yes,regular
+34229414,maxspeed,50,regular
+34229414,name,Fitzgibbon Avenue,regular
+34586435,highway,residential,regular
+34586435,name,Gore Street,regular
+35358186,highway,footway,regular
+35358186,surface,compacted,regular
+35893049,highway,service,regular
+35893049,name,Wustemenn Place,regular
+35893049,source,Yahoo,regular
+35893049,name,photo,source
+36774841,cycleway,lane,regular
+36774841,highway,tertiary,regular
+36774841,maxspeed,50,regular
+36774841,name,Courtney Street,regular
+36774841,oneway,yes,regular
+36774841,source,nearmap,regular
+37523964,highway,service,regular
+37523964,maxspeed,10,regular
+37692172,amenity,parking,regular
+37692172,parking,park_and_ride,regular
+37793372,highway,residential,regular
+37793372,junction,roundabout,regular
+37868019,highway,residential,regular
+37868019,name,Patterson Place,regular
+37868019,source,Yahoo,regular
+37868019,name,photo,source
+38093856,highway,service,regular
+38101267,access,permissive,regular
+38101267,highway,residential,regular
+38101267,name,Fripp Avenue,regular
+38101267,source,Yahoo,regular
+38101267,name,photo,source
+38313136,building,yes,regular
+38313136,layer,1,regular
+38655583,building,yes,regular
+38655583,building_number,242,regular
+38655583,name,Grattan Institute,regular
+39084375,highway,primary,regular
+39084375,junction,roundabout,regular
+39084375,lanes,2,regular
+39084375,network,S,regular
+39084375,ref,S 37,regular
+39306734,highway,residential,regular
+39306734,name,Chapman Street,regular
+39306734,oneway,yes,regular
+39418095,amenity,parking,regular
+39561077,highway,residential,regular
+39561077,name,Hyde Street,regular
+39561077,oneway,yes,regular
+39798987,highway,service,regular
+39798987,oneway,yes,regular
+40414674,interpolation,odd,addr
+40721207,building,retail,regular
+41106872,highway,footway,regular
+41382166,bicycle,yes,regular
+41382166,foot,yes,regular
+41382166,highway,footway,regular
+41382166,name,Cairncross Lane,regular
+41746552,electrified,contact_line,regular
+41746552,frequency,0,regular
+41746552,gauge,1600,regular
+41746552,maxspeed,70,regular
+41746552,name,Belgrave / Lilydale Line,regular
+41746552,railway,rail,regular
+41746552,voltage,1500,regular
+41841153,highway,residential,regular
+41841153,name,Medley Street,regular
+41841153,source,Yahoo,regular
+41841153,name,photo,source
+41889438,building,yes,regular
+42186168,highway,footway,regular
+42393338,highway,service,regular
+42555576,highway,pedestrian,regular
+42555576,name,Victoria Harbour Promenade,regular
+42653141,highway,service,regular
+42863542,highway,service,regular
+42863542,maxspeed,20,regular
+42863542,name,Osborne Street,regular
+42863542,oneway,yes,regular
+43194122,amenity,school,regular
+43194122,name,St Catherine's School,regular
+43407361,city,North Melbourne,addr
+43407361,country,AU,addr
+43407361,housenumber,36,addr
+43407361,postcode,3051,addr
+43407361,street,Hardwicke Street,addr
+43407361,building,yes,regular
+43537794,highway,residential,regular
+43537794,lanes,1,regular
+43537794,name,Hotham Street,regular
+43537794,old_name,Fitzroy Street East,regular
+43537794,1,Hotham Street East,old_name
+43537794,oneway,yes,regular
+43678457,highway,service,regular
+43747994,highway,residential,regular
+43747994,name,Blakeney Place,regular
+43981332,highway,residential,regular
+43981332,name,Hales Court,regular
+43981332,source,Yahoo,regular
+43981332,name,photo,source
+44082116,leisure,park,regular
+44159831,foot,yes,regular
+44159831,highway,footway,regular
+44558577,interpolation,odd,addr
+44704590,highway,path,regular
+44876561,highway,residential,regular
+44876561,junction,roundabout,regular
+44980884,barrier,wall,regular
+45067045,foot,yes,regular
+45067045,highway,path,regular
+45067045,surface,gravel,regular
+45098587,leisure,playground,regular
+45098587,name,Quarries Playspace,regular
+45098587,operator,City of Yarra,regular
+45105132,bicycle,yes,regular
+45105132,highway,path,regular
+45105132,source,nearmap,regular
+45147891,direction,up,regular
+45147891,foot,yes,regular
+45147891,highway,steps,regular
+45147891,source,nearmap,regular
+45172777,highway,service,regular
+45307134,highway,footway,regular
+45366081,highway,service,regular
+45367826,foot,yes,regular
+45367826,highway,footway,regular
+45367826,surface,asphalt,regular
+45369133,amenity,university,regular
+45369133,layer,-1,regular
+45369133,name,International House,regular
+45369133,residential,university,regular
+45369133,source,nearmap,regular
+45369133,website,www.ihouse.unimelb.edu.au,regular
+45382086,highway,footway,regular
+45382086,source,nearmap,regular
+45414901,highway,service,regular
+45416283,highway,footway,regular
+45416283,source,nearmap,regular
+45420946,natural,wetland,regular
+45420946,source,nearmap,regular
+45421467,natural,wood,regular
+45421467,source,Bing,regular
+45425801,building,yes,regular
+45425801,source,nearmap,regular
+45476040,highway,service,regular
+45476040,service,parking_aisle,regular
+45476040,source,nearmap,regular
+45476775,highway,service,regular
+45476775,service,parking_aisle,regular
+45476775,source,nearmap,regular
+45478476,building,yes,regular
+45478476,source,nearmap,regular
+45479304,highway,residential,regular
+45479304,name,Westbourne Grove,regular
+45482270,railway,rail,regular
+45483600,railway,rail,regular
+45513296,electrified,no,regular
+45513296,gauge,1600,regular
+45513296,railway,rail,regular
+45513296,service,siding,regular
+45525401,bridge,yes,regular
+45525401,electrified,contact_line,regular
+45525401,frequency,0,regular
+45525401,gauge,1600,regular
+45525401,layer,1,regular
+45525401,maxspeed,80,regular
+45525401,name,Upfield Line,regular
+45525401,oneway,yes,regular
+45525401,railway,rail,regular
+45525401,source,nearmap,regular
+45525401,voltage,1500,regular
+45536255,bicycle,yes,regular
+45536255,highway,footway,regular
+45545244,bicycle,yes,regular
+45545244,foot,yes,regular
+45545244,highway,service,regular
+45545244,motor_vehicle,permissive,regular
+45545244,name,Gate C,regular
+45545244,service,driveway,regular
+45545244,surface,asphalt,regular
+45626999,railway,rail,regular
+45626999,source,nearmap,regular
+45638624,building,yes,regular
+45640190,railway,rail,regular
+45640190,service,siding,regular
+45640190,source,nearmap,regular
+45685515,railway,platform,regular
+45737064,foot,yes,regular
+45737064,highway,steps,regular
+45764766,city,North Melbourne,addr
+45764766,country,AU,addr
+45764766,housenumber,348,addr
+45764766,postcode,3051,addr
+45764766,street,Dryburgh Street,addr
+45764766,building,yes,regular
+45766042,highway,service,regular
+45766042,source,nearmap,regular
+45775906,leisure,garden,regular
+45792909,landuse,recreation_ground,regular
+45792909,source,nearmap,regular
+45814244,highway,service,regular
+45814244,source,nearmap,regular
+45821420,bicycle,no,regular
+45821420,foot,yes,regular
+45821420,highway,footway,regular
+45975587,access,private,regular
+45975587,highway,service,regular
+45975587,source,nearmap,regular
+46099210,amenity,casino,regular
+46099210,building,yes,regular
+46099210,colour,black,building
+46099210,material,glass,building
+46099210,layer,1,regular
+46099210,name,Crown Metropol Hotel,regular
+46099210,wheelchair,yes,toilets
+46099210,tourism,hotel,regular
+46099210,website,www.crownmetropol.com.au,regular
+46099210,wheelchair,yes,regular
+46099210,wheelchair_toilet,yes,regular
+46099210,wikipedia,en:Crown Casino and Entertainment Complex,regular
+46136877,railway,rail,regular
+46136877,service,yard,regular
+46136877,source,nearmap,regular
+46188830,city,East Melbourne,addr
+46188830,housenumber,8,addr
+46188830,postcode,3002,addr
+46188830,street,Nicholson Street,addr
+46188830,building,yes,regular
+46188830,levels,6,building
+46188830,name,8 Nicholson Street,regular
+46218297,city,Melbourne,addr
+46218297,housenumber,287,addr
+46218297,postcode,3000,addr
+46218297,street,Lonsdale Street,addr
+46218297,building,retail,regular
+46218297,colour,darkgray,building
+46218297,height,40 m,regular
+46218297,landuse,retail,regular
+46218297,name,Emporium,regular
+46218297,operator,Vicinity Centres,regular
+46218297,website,www.vicinity.com.au,operator
+46218297,phone,+86098221,regular
+46218297,shop,mall,regular
+46218297,wheelchair,yes,toilets
+46218297,website,http://www.emporiummelbourne.com.au/,regular
+46218297,wheelchair,yes,regular
+46276845,bicycle,yes,regular
+46276845,bridge,yes,regular
+46276845,highway,footway,regular
+46276845,layer,1,regular
+46276845,source,nearmap,regular
+46297669,highway,tertiary_link,regular
+46414274,building,yes,regular
+46414274,levels,8,building
+46414274,name,Cavendish House,regular
+46414274,source,nearmap,regular
+46509273,building,yes,regular
+46751453,building,yes,regular
+46751453,levels,5,building
+46751453,name,The Block,landmark
+46751453,name,The Block,regular
+46829235,cycleway,lane,regular
+46829235,highway,tertiary,regular
+46829235,lcn,Swanston Street,regular
+46829235,name,Swanston Street,regular
+46829235,oneway,yes,regular
+46957541,leisure,playground,regular
+46957541,source,nearmap,regular
+46985001,highway,residential,regular
+46985001,name,Mansfield Street,regular
+46985001,source,MMBW,regular
+47174962,highway,service,regular
+47174962,maxspeed,40,regular
+47874097,building,yes,regular
+47874097,name,Labassa House,regular
+48208435,building,yes,regular
+48528797,highway,footway,regular
+48528797,source,nearmap,regular
+48529080,highway,service,regular
+48529080,source,nearmap,regular
+48530770,building,yes,regular
+48530770,man_made,tank,regular
+48530770,source,nearmap,regular
+48531668,highway,service,regular
+48531668,service,alley,regular
+48531668,source,nearmap,regular
+48663505,natural,water,regular
+49121836,highway,tertiary,regular
+49121836,name,Donald Street,regular
+49121836,oneway,yes,regular
+49251035,highway,residential,regular
+49251035,name,St David Street,regular
+49455217,amenity,parking,regular
+49958011,electrified,contact_line,regular
+49958011,frequency,0,regular
+49958011,gauge,1435,regular
+49958011,name,Docklands Drive,regular
+49958011,railway,tram,regular
+49958011,voltage,600,regular
+49961526,highway,unclassified,regular
+49961526,name,Pearl River Road,regular
+49961526,oneway,yes,regular
+50126719,highway,service,regular
+50126719,oneway,yes,regular
+50126719,service,driveway,regular
+50339679,access,private,regular
+50339679,highway,footway,regular
+50339679,source,nearmap,regular
+50596277,area,yes,regular
+50596277,highway,service,regular
+50596277,service,driveway,regular
+50999929,building,yes,regular
+50999929,name,The Conservatory,regular
+50999929,source,nearmap,regular
+51335855,railway,platform,regular
+51335855,ref,4,regular
+51653227,building,yes,regular
+52013567,area,yes,regular
+52013567,highway,service,regular
+52013567,source,nearmap,regular
+52055729,housenumber,31,addr
+52055729,street,Spring Street,addr
+52055729,building,yes,regular
+52055729,levels,27,building
+52055729,name,The Philadelphia Building,regular
+52994037,highway,trunk,regular
+52994037,is_in,"Collingwood,Victoria,Australia",regular
+52994037,lanes,3,regular
+52994037,maxspeed,60,regular
+52994037,name,Alexandra Parade,regular
+52994037,oneway,yes,regular
+52994037,postal_code,3066,regular
+52994037,ref,S 83,regular
+52994037,source,survey,regular
+54017181,amenity,parking,regular
+54017181,source,nearmap,regular
+54035158,highway,service,regular
+54035158,service,driveway,regular
+54454461,cycleway,lane,regular
+54454461,highway,secondary,regular
+54454461,maxspeed,60,regular
+54454461,name,Westgarth Street,regular
+54454461,network,S,regular
+54454461,oneway,yes,regular
+54454461,ref,S 38,regular
+54454461,source,nearmap,regular
+54838458,highway,residential,regular
+54838458,lanes,2,regular
+54838458,name,Birdwood Street,regular
+54838458,surface,asphalt,regular
+54923014,leisure,pitch,regular
+54923014,sport,cricket,regular
+55949441,highway,service,regular
+55949441,service,alley,regular
+55952718,highway,residential,regular
+55952718,lit,yes,regular
+55952718,maxspeed,50,regular
+55952718,name,Mitchell Street,regular
+56724465,foot,yes,regular
+56724465,highway,footway,regular
+56724465,source,nearmap,regular
+57006804,leisure,pitch,regular
+57006804,sport,tennis,regular
+57018929,highway,service,regular
+57018929,source,nearmap,regular
+58361468,highway,residential,regular
+58361468,maxspeed,40,regular
+58361468,name,Clifton Street,regular
+58361468,oneway,yes,regular
+58361468,source,nearmap,regular
+58361468,name,Collins 1936,source
+58671173,amenity,parking,regular
+60049381,foot,yes,regular
+60049381,highway,footway,regular
+60116687,barrier,fence,regular
+60116687,layer,2,regular
+60116687,source,nearmap,regular
+60793348,city,Melbourne,addr
+60793348,country,AU,addr
+60793348,housenumber,343,addr
+60793348,postcode,3121,addr
+60793348,state,Victoria,addr
+60793348,street,Punt Road,addr
+60793348,suburb,Richmond,addr
+60793348,building,yes,regular
+60793348,layer,1,regular
+60793348,source,nearmap,regular
+61511990,highway,primary_link,regular
+61511990,lanes,2,regular
+61511990,oneway,yes,regular
+61511990,source,nearmap,regular
+61532929,leisure,park,regular
+61849616,highway,service,regular
+61849616,service,alley,regular
+61849616,surface,cobblestone,regular
+61849616,width,3.7,regular
+62106235,cycleway,lane,regular
+62106235,highway,unclassified,regular
+62106235,name,Franklin Street,regular
+62106235,oneway,yes,regular
+62106235,source,nearmap,regular
+62259757,foot,yes,regular
+62259757,highway,footway,regular
+62259757,source,nearmap,regular
+62262076,cycleway,lane,regular
+62262076,highway,tertiary,regular
+62262076,lanes,2,regular
+62262076,name,Queensberry Street,regular
+62262076,oneway,yes,regular
+62262076,source,nearmap,regular
+62344542,highway,service,regular
+62344542,source,nearmap,regular
+62344542,surface,asphalt,regular
+62671454,cycleway,lane,regular
+62671454,highway,tertiary,regular
+62671454,name,Queensberry Street,regular
+62671454,oneway,yes,regular
+62671454,source,nearmap,regular
+66210637,building,yes,regular
+66210637,name,Stamford Plaza East Tower,regular
+66210637,tourism,hotel,regular
+66210637,website,www.stamford.com.au/spm,regular
+67760047,railway,rail,regular
+67760047,source,Yahoo Tracing,regular
+68853475,cycleway,lane,regular
+68853475,highway,residential,regular
+68853475,maxspeed,40,regular
+68853475,name,Madden Grove,regular
+68853475,surface,asphalt,regular
+69025363,cycleway,lane,regular
+69025363,highway,tertiary,regular
+69025363,maxspeed,60,regular
+69025363,name,Elizabeth Street,regular
+69025363,oneway,yes,regular
+69025363,source,"bing,knowledge",regular
+70647281,bicycle,yes,regular
+70647281,highway,footway,regular
+70812076,bench,yes,regular
+70812076,bin,yes,regular
+70812076,layer,2,regular
+70812076,name,Stop D14: Southern Cross Station,regular
+70812076,network,PTV - Metropolitan Trams,regular
+70812076,operator,Yarra Trams,regular
+70812076,public_transport,platform,regular
+70812076,railway,platform,regular
+70812076,ref,D14,regular
+70812076,route_ref,11;48,regular
+70812076,shelter,yes,regular
+70812076,source,nearmap,regular
+70812076,tram,yes,regular
+70812076,wheelchair,yes,regular
+71079934,electrified,contact_line,regular
+71079934,frequency,0,regular
+71079934,gauge,1435,regular
+71079934,name,Southbank Boulevard,regular
+71079934,oneway,yes,regular
+71079934,railway,tram,regular
+71079934,source,nearmap,regular
+71079934,voltage,600,regular
+71194448,building,yes,regular
+71194448,name,Apartments,regular
+73346759,highway,residential,regular
+73346759,name,Moloney Lane,regular
+74318054,bicycle,yes,regular
+74318054,cycleway,track,regular
+74318054,dismount,yes,regular
+74318054,foot,yes,regular
+74318054,highway,cycleway,regular
+74318054,motor_vehicle,no,regular
+74318054,source,Bing,regular
+74318054,surface,asphalt,regular
+76562590,highway,residential,regular
+76562590,name,Park Street,regular
+83346972,railway,abandoned,regular
+83346972,source,Yahoo,regular
+85620195,bridge,yes,regular
+85620195,highway,pedestrian,regular
+85620195,layer,1,regular
+87098003,interpolation,odd,addr
+87469500,highway,trunk,regular
+87469500,is_in,"Fitzroy,Victoria,Australia; Collingwood,Victoria,Australia",regular
+87469500,lanes,3,regular
+87469500,maxspeed,60,regular
+87469500,name,Alexandra Parade,regular
+87469500,oneway,yes,regular
+87469500,postal_code,3065,regular
+87469500,ref,S 83,regular
+87469500,source,survey,regular
+88795781,interpolation,even,addr
+89892142,city,Brunswick West,addr
+89892142,country,AU,addr
+89892142,housename,Allard Court,addr
+89892142,housenumber,2,addr
+89892142,postcode,3055,addr
+89892142,street,Allard Street,addr
+89892142,building,yes,regular
+91815250,highway,service,regular
+91815250,source,Bing,regular
+92809884,leisure,park,regular
+93310391,highway,service,regular
+93321851,building,yes,regular
+93324569,building,yes,regular
+93332511,highway,footway,regular
+93494875,highway,service,regular
+93494875,service,parking_aisle,regular
+93507308,highway,service,regular
+93507308,service,parking_aisle,regular
+93509987,amenity,parking,regular
+93518246,highway,service,regular
+93518246,service,parking_aisle,regular
+95346823,highway,service,regular
+95346823,oneway,yes,regular
+95346823,service,parking_aisle,regular
+95383132,foot,yes,regular
+95383132,highway,footway,regular
+95383132,motor_vehicle,no,regular
+95383132,surface,gravel,regular
+95497622,leisure,playground,regular
+95639531,highway,footway,regular
+95643809,leisure,pitch,regular
+95643809,sport,tennis,regular
+97793254,foot,yes,regular
+97793254,highway,footway,regular
+97793254,source,nearmap,regular
+98110061,highway,footway,regular
+103372643,bicycle,yes,regular
+103372643,cycleway,track,regular
+103372643,foot,yes,regular
+103372643,highway,cycleway,regular
+103372643,source,NearMap,regular
+105729026,bridge,yes,regular
+105729026,foot,yes,regular
+105729026,highway,footway,regular
+105729026,layer,1,regular
+106475344,amenity,parking,regular
+106475344,layer,1,regular
+106475344,source,nearmap,regular
+108985557,building,yes,regular
+109588384,highway,service,regular
+109588384,service,alley,regular
+111662829,highway,service,regular
+111667609,highway,cycleway,regular
+111667609,oneway,yes,regular
+112276924,highway,footway,regular
+112444763,highway,tertiary,regular
+112444763,lanes,1,regular
+112444763,maxspeed,50,regular
+112444763,name,Barkly Street,regular
+112444763,oneway,yes,regular
+112444763,source,nearmap,regular
+112444763,surface,asphalt,regular
+112554293,highway,service,regular
+112554293,name,Greenham Place,regular
+112554293,oneway,yes,regular
+112554293,service,alley,regular
+112554293,source,Bing,regular
+112554293,name,vicmap,source
+112651741,foot,yes,regular
+112651741,highway,footway,regular
+112651741,source,nearmap,regular
+112651741,surface,asphalt,regular
+112933971,highway,service,regular
+112933971,maxheight,2,regular
+113112486,bridge,yes,regular
+113112486,covered,yes,regular
+113112486,foot,yes,regular
+113112486,highway,footway,regular
+113112486,layer,1,regular
+113543744,highway,service,regular
+113543744,service,alley,regular
+113543744,surface,cobblestone,regular
+113543744,width,2.9,regular
+113549286,highway,tertiary_link,regular
+113549286,source,nearmap,regular
+113662387,highway,service,regular
+113662387,service,parking_aisle,regular
+113662387,surface,paved,regular
+114504371,highway,residential,regular
+114504371,maxspeed,50,regular
+114504371,source,default residential speed limit in Australia,maxspeed
+114504371,name,Amess Street,regular
+114671249,highway,service,regular
+114671249,service,parking_aisle,regular
+114671249,surface,paved,regular
+114768930,highway,service,regular
+114768930,name,Cocoa Jackson Lane,regular
+114768930,service,alley,regular
+114768930,surface,cobblestone,regular
+114768930,width,4.5,regular
+114769994,highway,primary_link,regular
+114769994,source,nearmap,regular
+115457787,barrier,fence,regular
+115457787,height,1.9,regular
+115457787,material,wood,regular
+115750490,highway,service,regular
+115750490,service,alley,regular
+115750490,surface,cobblestone,regular
+115750490,width,3.6,regular
+116435099,highway,service,regular
+116435099,service,driveway,regular
+116435099,surface,paved,regular
+116435099,width,3.2,regular
+116678285,barrier,fence,regular
+117755353,building,yes,regular
+117759879,inclusion,actual,addr
+117759879,interpolation,alphabetic,addr
+117892554,building,yes,regular
+117904620,building,yes,regular
+117907086,highway,footway,regular
+117907086,surface,paved,regular
+117929168,barrier,fence,regular
+117929220,barrier,fence,regular
+117929272,barrier,fence,regular
+117929322,building,yes,regular
+118133890,highway,footway,regular
+118133890,surface,paved,regular
+120422221,leisure,pitch,regular
+120422221,sport,tennis,regular
+121296224,highway,tertiary,regular
+121296224,maxspeed,50,regular
+121296224,name,Barkly Street,regular
+121296224,surface,asphalt,regular
+122629989,building,yes,regular
+122629989,name,Manning Building (403),regular
+124307716,highway,service,regular
+124307716,maxspeed,40,regular
+124307716,service,alley,regular
+124307716,source,Bing,regular
+127139510,bicycle,yes,regular
+127139510,cycleway,track,regular
+127139510,foot,yes,regular
+127139510,highway,cycleway,regular
+127139510,source,Bing,regular
+128893281,amenity,shelter,regular
+128893281,todo,check,regular
+129041541,highway,footway,regular
+129319509,highway,service,regular
+129319509,service,parking_aisle,regular
+129734714,building,yes,regular
+129895560,building,yes,regular
+131317554,bicycle,no,regular
+131317554,foot,yes,regular
+131317554,highway,footway,regular
+131317554,surface,asphalt,regular
+131709235,highway,primary,regular
+131709235,lanes,2,regular
+131709235,maxspeed,60,regular
+131709235,name,Wellington Parade,regular
+131709235,network,S,regular
+131709235,oneway,yes,regular
+131709235,ref,S 30,regular
+131709235,surface,asphalt,regular
+131724934,highway,tertiary,regular
+131724934,lanes,1,regular
+131724934,maxspeed,50,regular
+131724934,name,Wellington Parade,regular
+131724934,network,S,regular
+131724934,oneway,yes,regular
+131724934,ref,S 30,regular
+131724934,surface,asphalt,regular
+132394472,building,yes,regular
+132394472,layer,1,regular
+132503304,building,yes,regular
+132503304,layer,1,regular
+132503428,city,Port Melbourne,addr
+132503428,housenumber,550,addr
+132503428,postcode,3207,addr
+132503428,street,Williamstown Road,addr
+132503428,building,industrial,regular
+132503428,layer,1,regular
+132503428,name,Bay Garage,regular
+132503428,shop,car_repair,regular
+132503428,website,http://www.baygarage.com.au,regular
+132600977,highway,secondary_link,regular
+132600977,surface,asphalt,regular
+132924149,electrified,contact_line,regular
+132924149,frequency,0,regular
+132924149,gauge,1435,regular
+132924149,name,Bridge Road,regular
+132924149,oneway,yes,regular
+132924149,railway,tram,regular
+132924149,voltage,600,regular
+132996757,highway,primary_link,regular
+132996757,surface,asphalt,regular
+132999788,cycleway,lane,regular
+132999788,highway,residential,regular
+132999788,lanes,1,regular
+132999788,maxspeed,40,regular
+132999788,name,Murphy Street,regular
+132999788,oneway,yes,regular
+132999788,name,Collins 1936,source
+132999788,surface,asphalt,regular
+133247010,building,yes,regular
+133247010,layer,1,regular
+134621262,electrified,contact_line,regular
+134621262,frequency,0,regular
+134621262,gauge,1435,regular
+134621262,name,Flinders Street,regular
+134621262,oneway,yes,regular
+134621262,railway,tram,regular
+134621262,voltage,600,regular
+135952929,electrified,contact_line,regular
+135952929,frequency,0,regular
+135952929,gauge,1435,regular
+135952929,name,Victoria Street,regular
+135952929,oneway,yes,regular
+135952929,railway,tram,regular
+135952929,voltage,600,regular
+135984687,highway,tertiary,regular
+135984687,lanes,1,regular
+135984687,maxspeed,50,regular
+135984687,name,Swanston Street,regular
+135984687,oneway,yes,regular
+135984687,surface,asphalt,regular
+136397574,bicycle,designated,regular
+136397574,foot,designated,regular
+136397574,highway,cycleway,regular
+136397574,name,Capital City Trail / Main Yarra Trail,regular
+136397574,segregated,no,regular
+136397574,surface,asphalt,regular
+138568066,highway,trunk_link,regular
+138568066,oneway,yes,regular
+138568066,surface,asphalt,regular
+140226681,highway,unclassified,regular
+140226681,name,Aquatic Drive,regular
+140226681,oneway,yes,regular
+140226681,source,extrapolation,regular
+140226681,name,survey,source
+141175971,barrier,fence,regular
+142578862,amenity,parking,regular
+142578862,capacity,1,regular
+142578862,parking,surface,regular
+142578862,surface,asphalt,regular
+144353450,foot,yes,regular
+144353450,highway,footway,regular
+145092096,barrier,retaining_wall,regular
+145357577,highway,tertiary,regular
+145357577,name,French Street,regular
+145357577,oneway,yes,regular
+146617251,bicycle,dismount,regular
+146617251,cycleway,track,regular
+146617251,foot,yes,regular
+146617251,highway,cycleway,regular
+146617251,name,Capital City Trail,regular
+147523395,cycleway,lane,regular
+147523395,highway,residential,regular
+147523395,lcn,Moreland Council,regular
+147523395,lit,yes,regular
+147523395,maxspeed,50,regular
+147523395,source,default residential speed limit in Australia,maxspeed
+147523395,name,Daly Street,regular
+147523395,oneway,yes,regular
+149342873,cycleway,lane,regular
+149342873,highway,residential,regular
+149342873,lit,yes,regular
+149342873,maxspeed,40,regular
+149342873,name,John Street,regular
+149342873,oneway,no,regular
+149342873,source,survey,regular
+149984956,interpolation,odd,addr
+153111710,railway,disused,regular
+154262336,barrier,fence,regular
+154296930,building,yes,regular
+154297017,building,yes,regular
+154297017,name,Wine House,regular
+154418910,highway,residential,regular
+154418910,maxspeed,50,regular
+154418910,name,Newman Drive,regular
+154649497,interpolation,odd,addr
+154653310,interpolation,even,addr
+154881942,highway,service,regular
+154881942,oneway,yes,regular
+154881942,source,nearmap,regular
+156529907,highway,residential,regular
+156529907,name,Rushall Street,regular
+156529907,source,"bing,collins 1936",regular
+156581997,highway,residential,regular
+156581997,name,Lorna Avenue,regular
+156581997,source,"bing,collins 1936",regular
+156890697,highway,residential,regular
+156890697,maxspeed,50,regular
+156890697,name,Hanslope Avenue,regular
+156890697,oneway,no,regular
+156890697,source,collins 1936,regular
+156890697,surface,asphalt,regular
+159486647,highway,service,regular
+160840323,floating,yes,regular
+160840323,man_made,pier,regular
+161547290,highway,service,regular
+161547290,oneway,no,regular
+161547290,service,alley,regular
+161622436,highway,service,regular
+161622436,oneway,yes,regular
+161622436,service,drive-through,regular
+164326504,highway,footway,regular
+164326504,source,survey,regular
+164326504,surface,paving_stones,regular
+165178817,highway,footway,regular
+165178817,surface,concrete,regular
+165196412,foot,yes,regular
+165196412,highway,cycleway,regular
+165196412,surface,concrete,regular
+166700414,highway,primary,regular
+166700414,lanes,2,regular
+166700414,maxspeed,60,regular
+166700414,name,Williams Road,regular
+166700414,network,S,regular
+166700414,oneway,yes,regular
+166700414,ref,S 25,regular
+166700414,surface,asphalt,regular
+166819507,highway,footway,regular
+166819507,surface,concrete,regular
+168117460,city,Melbourne,addr
+168117460,country,AU,addr
+168117460,housenumber,15,addr
+168117460,street,Nicholson Place,addr
+168117460,building,terrace,regular
+169532838,housenumber,489,addr
+169532838,amenity,parking,regular
+170548293,highway,service,regular
+170548293,service,alley,regular
+172405813,highway,residential,regular
+172405813,maxspeed,50,regular
+172405813,source,default residential speed limit in Australia,maxspeed
+172405813,name,Leicester Street,regular
+172405813,oneway,yes,regular
+172405813,surface,asphalt,regular
+172516955,highway,residential,regular
+172516955,maxspeed,50,regular
+172516955,name,Kavanagh Street,regular
+172516955,source,Bing,regular
+172516955,maxspeed,AU:Urban,source
+173711327,highway,service,regular
+173711327,service,parking_aisle,regular
+175516631,bicycle,yes,regular
+175516631,highway,footway,regular
+177480154,highway,footway,regular
+178114789,highway,residential,regular
+178487444,source,ABS2011,regular
+178636572,source,ABS2011,regular
+179583727,source,ABS2011,regular
+180072711,highway,residential,regular
+180072711,name,Clydebank Road,regular
+180072711,surface,asphalt,regular
+182104319,highway,residential,regular
+182104319,name,Rotherwood Street,regular
+182104319,source,Yahoo,regular
+182104319,name,Collins 1936,source
+184240276,highway,residential,regular
+184240276,lit,yes,regular
+184240276,maxspeed,50,regular
+184240276,name,Barrow Street,regular
+184240276,oneway,yes,regular
+185735563,city,East Brunswick,addr
+185735563,country,AU,addr
+185735563,housenumber,51,addr
+185735563,postcode,3057,addr
+185735563,street,Albert Street,addr
+185735563,amenity,public_building,regular
+185735563,building,yes,regular
+185735563,name,Clarrie Wohlers Senior Citizens Centre,regular
+185735563,source,survey,regular
+186578968,city,Collingwood,addr
+186578968,housenumber,253,addr
+186578968,postcode,3066,addr
+186578968,street,Hoddle Street,addr
+186578968,building,yes,regular
+187589642,barrier,fence,regular
+188003516,highway,cycleway,regular
+188862606,highway,residential,regular
+188862606,name,Steele Street,regular
+189295685,highway,footway,regular
+190527942,city,South Melbourne,addr
+190527942,housenumber,40,addr
+190527942,postcode,3205,addr
+190527942,street,Park Street,addr
+190527942,alt_name,VTAC,regular
+190527942,building,office,regular
+190527942,levels,2,building
+190527942,name,Victorian Tertiary Admissions Centre,regular
+190527942,office,educational_institution,regular
+190527942,phone,1300364133,regular
+190527942,website,http://www.vtac.edu.au/,regular
+190527942,wheelchair,yes,regular
+191519697,highway,tertiary,regular
+191519697,lanes,2,regular
+191519697,maxspeed,50,regular
+191519697,name,Grattan Street,regular
+191519697,oneway,yes,regular
+191519697,surface,asphalt,regular
+192584408,highway,residential,regular
+192584408,name,Seacombe Street,regular
+192584408,oneway,yes,regular
+194857331,landuse,retail,regular
+194857331,source,Bing,regular
+196467079,interpolation,even,addr
+196615751,amenity,parking,regular
+197846481,cycleway,lane,regular
+197846481,highway,primary,regular
+197846481,name,Williamstown Road,regular
+197846481,oneway,yes,regular
+198538935,highway,trunk,regular
+198538935,lanes,3,regular
+198538935,name,City Road,regular
+198538935,network,S,regular
+198538935,oneway,yes,regular
+198538935,ref,S 20;T 2,regular
+198538935,source,survey,regular
+198722236,highway,service,regular
+198722236,service,alley,regular
+198878202,highway,service,regular
+198994039,highway,tertiary,regular
+198994039,name,Somerville Road,regular
+198994039,ref,S 50,regular
+198994039,source,nearmap,regular
+199007529,highway,residential,regular
+199007529,name,Holden Street,regular
+199007529,old_name,Brunswick Road East,regular
+199007529,surface,asphalt,regular
+199310502,highway,tertiary,regular
+199310502,maxspeed,40,regular
+199310502,name,Russell Street,regular
+199310502,oneway,yes,regular
+199765936,highway,tertiary,regular
+199765936,name,Albert Street,regular
+199765936,source,Yahoo,regular
+200223101,highway,residential,regular
+200223101,name,Raglan Street,regular
+200370904,highway,residential,regular
+200370904,name,Brunel Street,regular
+200535600,building,retail,regular
+201365171,highway,tertiary,regular
+201365171,name,Droop Street,regular
+201700023,landuse,retail,regular
+201852218,cycleway,lane,regular
+201852218,highway,tertiary,regular
+201852218,lcn,Dawson Street,regular
+201852218,name,Dawson Street,regular
+202233677,housename,Kira Apartments,addr
+202233677,housenumber,179,addr
+202233677,postcode,3051,addr
+202233677,street,Boundary Road,addr
+202233677,building,yes,regular
+202233677,designation,Residential Building,regular
+202233677,name,Kira Apartments,regular
+202233677,source,Direct,regular
+202939650,highway,residential,regular
+202939650,name,Sparks Avenue,regular
+204346937,landuse,railway,regular
+205279718,highway,service,regular
+205279718,service,lane,regular
+205279718,source,Bing,regular
+206507244,highway,primary,regular
+206507244,name,Dryburgh Street,regular
+206507244,network,S,regular
+206507244,oneway,yes,regular
+206507244,ref,S 50,regular
+206507244,source,nearmap,regular
+206507244,surface,asphalt,regular
+207277354,highway,tertiary,regular
+207277354,oneway,yes,regular
+207460361,highway,service,regular
+207460361,name,New Chancery Lane,regular
+207780966,highway,primary,regular
+207780966,maxspeed,60,regular
+207780966,name,Ormond Road,regular
+207780966,network,S,regular
+207780966,ref,S 38,regular
+207979911,bench,yes,regular
+207979911,bin,yes,regular
+207979911,name,"Stop 11: City Square, Collins Street",regular
+207979911,network,PTV - Metropolitan Trams,regular
+207979911,operator,Yarra Trams,regular
+207979911,public_transport,platform,regular
+207979911,railway,platform,regular
+207979911,ref,11,regular
+207979911,route_ref,1;3;3a;5;6;8;16;64;67;72,regular
+207979911,shelter,yes,regular
+207979911,tram,yes,regular
+207979911,wheelchair,yes,regular
+208506442,cycleway,lane,regular
+208506442,highway,tertiary,regular
+208506442,maxspeed,40,regular
+208506442,name,Bourke Street,regular
+208506442,oneway,yes,regular
+208659265,electrified,contact_line,regular
+208659265,frequency,0,regular
+208659265,gauge,1435,regular
+208659265,name,Victoria Parade,regular
+208659265,oneway,yes,regular
+208659265,railway,tram,regular
+208659265,source,nearmap;bing,regular
+208659265,voltage,600,regular
+208800815,bench,yes,regular
+208800815,bin,yes,regular
+208800815,name,"Stop 7: Queen Victoria Market, Victoria Street",regular
+208800815,network,PTV - Metropolitan Trams,regular
+208800815,operator,Yarra Trams,regular
+208800815,public_transport,platform,regular
+208800815,railway,platform,regular
+208800815,ref,7,regular
+208800815,route_ref,19;57;59,regular
+208800815,shelter,yes,regular
+208800815,tram,yes,regular
+208800815,wheelchair,yes,regular
+209288673,highway,service,regular
+209288673,service,alley,regular
+209751207,highway,primary,regular
+210336470,man_made,pier,regular
+210336470,source,Bing,regular
+210689547,electrified,contact_line,regular
+210689547,frequency,0,regular
+210689547,gauge,1435,regular
+210689547,name,Abbotsford Street,regular
+210689547,railway,tram,regular
+210689547,voltage,600,regular
+211058315,bridge,suspension,regular
+211058315,cycleway,lane,regular
+211058315,highway,secondary,regular
+211058315,is_in,"Coburg,Victoria,Australia",regular
+211058315,layer,1,regular
+211058315,name,Moreland Road,regular
+211058315,postal_code,3058,regular
+212255757,electrified,contact_line,regular
+212255757,frequency,0,regular
+212255757,gauge,1435,regular
+212255757,name,Sydney Road,regular
+212255757,oneway,yes,regular
+212255757,railway,tram,regular
+212255757,voltage,600,regular
+213132190,electrified,contact_line,regular
+213132190,frequency,0,regular
+213132190,gauge,1435,regular
+213132190,name,Raleigh Road,regular
+213132190,railway,light_rail,regular
+213132190,service,crossover,regular
+213132190,voltage,600,regular
+213480511,electrified,contact_line,regular
+213480511,frequency,0,regular
+213480511,gauge,1435,regular
+213480511,oneway,yes,regular
+213480511,railway,tram,regular
+213480511,voltage,600,regular
+214389888,cycleway,lane,regular
+214389888,highway,secondary,regular
+214389888,lanes,2,regular
+214389888,maxspeed,60,regular
+214389888,name,Church Street,regular
+214389888,oneway,yes,regular
+214389888,surface,asphalt,regular
+215504485,highway,secondary,regular
+215504485,name,Chapel Street,regular
+215504485,surface,asphalt,regular
+216906045,area,yes,regular
+216906045,bench,yes,regular
+216906045,bin,yes,regular
+216906045,foot,yes,regular
+216906045,name,"Stop 5: Flinders Street Station, Swanston Street",regular
+216906045,network,PTV - Metropolitan Trams,regular
+216906045,operator,Yarra Trams,regular
+216906045,public_transport,platform,regular
+216906045,railway,platform,regular
+216906045,ref,5,regular
+216906045,route_ref,35;70;75,regular
+216906045,shelter,yes,regular
+216906045,tram,yes,regular
+216906045,wheelchair,yes,regular
+217272668,highway,tertiary,regular
+217272668,maxspeed,60,regular
+217272668,name,Sturt Street,regular
+217272668,oneway,yes,regular
+217384624,highway,footway,regular
+217532539,highway,primary_link,regular
+217532539,lanes,1,regular
+217532539,oneway,yes,regular
+217604211,bench,yes,regular
+217604211,bin,yes,regular
+217604211,name,Stop 25: Cecil Street,regular
+217604211,network,PTV - Metropolitan Trams,regular
+217604211,operator,Yarra Trams,regular
+217604211,public_transport,platform,regular
+217604211,railway,platform,regular
+217604211,ref,25,regular
+217604211,route_ref,1,regular
+217604211,shelter,yes,regular
+217604211,tram,yes,regular
+217604211,wheelchair,yes,regular
+217628212,cycleway,lane,regular
+217628212,highway,tertiary,regular
+217628212,name,Moray Street,regular
+217628212,oneway,yes,regular
+217711700,highway,service,regular
+217848540,cycleway,lane,regular
+217848540,highway,primary,regular
+217848540,lanes,2,regular
+217848540,name,St Kilda Road,regular
+217848540,oneway,yes,regular
+217848540,ref,S 3,regular
+217848540,source,nearmap,regular
+218195425,landuse,railway,regular
+218671091,bench,yes,regular
+218671091,bin,yes,regular
+218671091,name,Stop 4: Queen Street,regular
+218671091,network,PTV - Metropolitan Trams,regular
+218671091,operator,Yarra Trams,regular
+218671091,public_transport,platform,regular
+218671091,railway,platform,regular
+218671091,ref,4,regular
+218671091,route_ref,86;96,regular
+218671091,shelter,yes,regular
+218671091,tram,yes,regular
+218671091,wheelchair,yes,regular
+220219542,building,train_station,regular
+221297390,building,yes,regular
+222254268,building,yes,regular
+222719861,access,private,regular
+222719861,highway,service,regular
+222719861,oneway,yes,regular
+222886574,highway,residential,regular
+223283979,highway,service,regular
+223283979,service,laneway,regular
+223619514,highway,service,regular
+223619514,source,nearmap,regular
+223622954,highway,service,regular
+223623479,floating,yes,regular
+223623479,man_made,pier,regular
+224439421,highway,path,regular
+225365678,highway,pedestrian,regular
+225791897,amenity,place_of_worship,regular
+225791897,denomination,Catholic,regular
+225791897,name,St Monica's,regular
+225791897,religion,christian,regular
+226332009,building,yes,regular
+227074434,highway,service,regular
+227167964,highway,footway,regular
+228168594,highway,service,regular
+228168594,service,parking_aisle,regular
+229126667,postcode,3000,addr
+229126667,street,Flinders Street,addr
+229126667,building,yes,regular
+229126667,name,Banana Alley Vaults,regular
+230778304,landuse,retail,regular
+230778304,source,Bing,regular
+231082641,highway,service,regular
+231082641,oneway,yes,regular
+231330355,railway,disused,regular
+231561503,building,yes,regular
+231906522,landuse,retail,regular
+231906522,source,Bing,regular
+233380779,area,yes,regular
+233380779,building,yes,regular
+233621969,cables,3,regular
+233621969,circuits,1,regular
+233621969,power,line,regular
+233621969,source,Bing,regular
+233621969,voltage,66000,regular
+233621969,wires,single,regular
+233925177,cables,3,regular
+233925177,circuits,1,regular
+233925177,power,line,regular
+233925177,source,Bing,regular
+233925177,voltage,66000,regular
+233925177,wires,double,regular
+234059839,city,Fitzroy,addr
+234059839,housenumber,173-181,addr
+234059839,postcode,3065,addr
+234059839,street,Smith Street,addr
+234059839,building,yes,regular
+234059839,construction,yes,regular
+234059839,name,Paterson Building,regular
+234949709,highway,service,regular
+234949709,service,parking_aisle,regular
+234949709,source,Bing,regular
+234949709,surface,asphalt,regular
+235754756,circuits,1,regular
+235754756,location,underground,regular
+235754756,power,cable,regular
+235754756,voltage,66000,regular
+236355042,building,yes,regular
+237063317,building,yes,regular
+237063317,levels,2,building
+237063317,name,Crown Street Community Arts Centre,regular
+237375010,highway,service,regular
+237375010,service,laneway,regular
+237761399,amenity,parking,regular
+237761399,parking,surface,regular
+238143780,landuse,residential,regular
+238620397,highway,service,regular
+238620397,level,1,regular
+238620397,oneway,yes,regular
+238620397,service,parking_aisle,regular
+238687813,building,yes,regular
+239069810,building,yes,regular
+239151256,building,yes,regular
+239151256,source,Bing,regular
+239328765,building,yes,regular
+239521595,highway,track,regular
+240145724,building,yes,regular
+240456004,building,yes,regular
+240807548,highway,service,regular
+240807548,service,driveway,regular
+240897097,amenity,parking,regular
+242554081,highway,footway,regular
+242554081,source,Bing,regular
+243249425,access,private,regular
+243249425,highway,service,regular
+243249425,service,driveway,regular
+243251544,highway,service,regular
+243251544,service,laneway,regular
+243299056,highway,service,regular
+243299056,service,driveway,regular
+243524413,highway,service,regular
+244159622,access,private,regular
+244159622,highway,service,regular
+244159622,service,driveway,regular
+244159672,access,private,regular
+244159672,highway,service,regular
+244159672,service,driveway,regular
+244282146,access,private,regular
+244282146,highway,service,regular
+244282146,service,driveway,regular
+245014687,building,yes,regular
+245189018,access,private,regular
+245189018,highway,service,regular
+245189018,service,driveway,regular
+245189078,access,private,regular
+245189078,highway,service,regular
+245189078,service,driveway,regular
+245397164,access,private,regular
+245397164,highway,service,regular
+245397164,service,driveway,regular
+247560573,city,Richmond,addr
+247560573,housenumber,23,addr
+247560573,postcode,3121,addr
+247560573,street,Lennox Street,addr
+247560573,amenity,doctors,regular
+247560573,building,yes,regular
+247560573,name,North Richmond Community Health,regular
+247560573,opening_hours,Mo-Fr 09:00-17:00,regular
+247560573,phone,+94189800,regular
+247560573,website,http://www.nrch.com.au/,regular
+247766424,access,private,regular
+247766424,leisure,swimming_pool,regular
+249663260,building,residential,regular
+249824534,building,residential,regular
+250234914,highway,service,regular
+250234914,source,Bing,regular
+250734777,highway,footway,regular
+250734777,surface,asphalt,regular
+253524040,highway,track,regular
+254068036,highway,path,regular
+255624923,foot,designated,regular
+255624923,highway,cycleway,regular
+255624923,segregated,no,regular
+255624923,surface,concrete,regular
+256436009,bicycle,no,regular
+256436009,highway,footway,regular
+257570322,building,yes,regular
+258075525,access,yes,regular
+258075525,foot,yes,regular
+258075525,highway,cycleway,regular
+258075525,segregated,no,regular
+258075525,source,nearmap,regular
+258075525,surface,gravel,regular
+260213692,building,yes,regular
+260213692,operator,University of Melbourne,regular
+260213692,source,Bing,regular
+260381296,city,Parkville,addr
+260381296,housenumber,27,addr
+260381296,postcode,3052,addr
+260381296,street,Royal Parade,addr
+260381296,building,yes,regular
+260381296,name,MCM Early Music Studio,regular
+260381296,operator,University of Melbourne,regular
+260381296,unimelb,359,ref
+260381296,source,Bing,regular
+260861843,highway,primary_link,regular
+261332289,building,commercial,regular
+261629606,building,yes,regular
+261979195,leisure,park,regular
+261979195,name,Windsor Reserve,regular
+262209748,access,private,regular
+262209748,highway,service,regular
+262209748,service,driveway,regular
+262521490,building,commercial,regular
+263453942,highway,service,regular
+263453942,service,parking_aisle,regular
+263453942,source,Bing,regular
+264052684,building,school,regular
+264998674,foot,yes,regular
+264998674,highway,footway,regular
+265134489,highway,service,regular
+265134489,service,parking_aisle,regular
+265330859,building,roof,regular
+265910010,amenity,hospital,regular
+265910010,emergency,yes,regular
+265910010,name,Alfred Hospital,regular
+265910010,website,http://www.alfred.org.au/,regular
+267163533,highway,service,regular
+267163533,junction,roundabout,regular
+267163533,source,Bing,regular
+267163533,surface,paved,regular
+267953848,landuse,residential,regular
+268587594,building,yes,regular
+270512574,building,commercial,regular
+271677703,highway,footway,regular
+272511229,building,commercial,regular
+272720896,leisure,pitch,regular
+272720896,source,Bing,regular
+273252372,building,yes,regular
+273252372,levels,25,building
+274203543,building,commercial,regular
+275177712,building,apartments,regular
+275177712,levels,8,building
+276733627,highway,service,regular
+276733627,oneway,yes,regular
+276733627,service,parking_aisle,regular
+276990006,building,house,regular
+278225591,highway,service,regular
+278225591,service,alley,regular
+281016645,city,Melbourne,addr
+281016645,housenumber,220,addr
+281016645,postcode,3000,addr
+281016645,street,Spencer Street,addr
+281016645,building,apartments,regular
+281016645,levels,45,building
+281016645,name,Upper West Side: Hudson Tower,regular
+281016645,wheelchair,yes,regular
+284935991,foot,yes,regular
+284935991,highway,footway,regular
+284935991,lit,yes,regular
+284935991,motor_vehicle,permissive,regular
+284935991,name,NewQuay Promenade,regular
+284935991,surface,paved,regular
+286984316,housenumber,222,addr
+286984316,street,Rosslyn Street,addr
+286984316,building,yes,regular
+289999845,electrified,contact_line,regular
+289999845,frequency,0,regular
+289999845,gauge,1600,regular
+289999845,layer,-1,regular
+289999845,maxspeed,80,regular
+289999845,name,Frankston Line,regular
+289999845,oneway,yes,regular
+289999845,railway,rail,regular
+289999845,tunnel,yes,regular
+289999845,voltage,1500,regular
+290097401,area,yes,regular
+290097401,layer,-1,regular
+290097401,name,10,regular
+290097401,railway,platform,regular
+290097401,ref,10,regular
+291028780,landuse,industrial,regular
+291028780,source,Bing,regular
+291467108,electrified,contact_line,regular
+291467108,frequency,0,regular
+291467108,layer,-3,regular
+291467108,location,underground,regular
+291467108,maxspeed,55,regular
+291467108,name,Northern Loop Line,regular
+291467108,railway,rail,regular
+291467108,tunnel,yes,regular
+291467108,voltage,1500,regular
+291716123,natural,tree_row,regular
+293133729,building,yes,regular
+293133729,material,brick,building
+293487059,boundary,political,regular
+293946738,building,yes,regular
+293979169,highway,service,regular
+293979169,name,Hungry Jack's Drive Through,regular
+293979169,oneway,yes,regular
+293979169,service,drive-through,regular
+294622408,railway,rail,regular
+294622408,service,siding,regular
+296377647,cycleway,lane,regular
+296377647,highway,primary,regular
+296377647,lanes,2,regular
+296377647,name,Williamstown Road,regular
+296377647,oneway,yes,regular
+298138815,housenumber,2,addr
+298138815,street,Portal Street,addr
+298138815,building,apartments,regular
+299281008,housenumber,5,addr
+299281008,street,Savige Street,addr
+299281008,building,apartments,regular
+299788128,building,yes,regular
+299788128,layer,1,regular
+300664695,highway,footway,regular
+301784359,railway,abandoned,regular
+304077075,landuse,residential,regular
+305215631,highway,footway,regular
+305931053,electrified,no,regular
+305931053,gauge,1600,regular
+305931053,railway,rail,regular
+305931053,service,siding,regular
+305931053,source,Bing,regular
+306474045,building,yes,regular
+306595153,building,yes,regular
+306604276,building,house,regular
+306604276,levels,2,building
+306630089,building,yes,regular
+306772961,building,yes,regular
+306772961,levels,9,building
+306772961,image,http://www.flickr.com/photos/ken_myers/3155905650/,regular
+306772961,name,telstra bldg,landmark
+306772961,name,Manchester Unity Building,regular
+306784795,building,yes,regular
+306784795,levels,3,building
+306784795,material,brick,building
+306808369,building,yes,regular
+307086625,building,yes,regular
+307086625,levels,24,building
+307236499,building,yes,regular
+307832119,highway,service,regular
+308155043,landuse,residential,regular
+308366592,railway,disused,regular
+309155042,highway,service,regular
+309155042,service,alley,regular
+309347498,highway,service,regular
+309347498,service,alley,regular
+309838857,landuse,residential,regular
+310026922,access,private,regular
+310026922,bicycle,yes,regular
+310026922,foot,yes,regular
+310026922,highway,service,regular
+310026922,horse,no,regular
+310026922,motor_vehicle,permissive,regular
+310026922,service,driveway,regular
+310455302,city,Brunswick,addr
+310455302,housenumber,3,addr
+310455302,postcode,3056,addr
+310455302,street,Cooraminta Street,addr
+310455302,building,house,regular
+310455302,name,3,regular
+310896262,housenumber,81,addr
+310896262,street,O'Connell Street,addr
+310896262,building,yes,regular
+311268979,highway,service,regular
+311268979,name,Harding Lane,regular
+311268979,name,vicmap,source
+311847072,city,Melbourne,addr
+311847072,housenumber,14,addr
+311847072,postcode,3056,addr
+311847072,state,Victoria,addr
+311847072,street,Prentice Street,addr
+311847072,suburb,Brunswick,addr
+311847072,building,yes,regular
+311847072,email,info@commutercycles.com.au,regular
+311847072,name,Commuter Cycles,regular
+311847072,opening_hours,Mo-Fr 08:00-18:00; Sa 10:00-16:00,regular
+311847072,phone,+93881319,regular
+311847072,bicycle:pump,yes,service
+311847072,bicycle:rental,yes,service
+311847072,bicycle:repair,yes,service
+311847072,bicycle:retail,yes,service
+311847072,shop,bicycle,regular
+311847072,website,http://commutercycles.com.au/,regular
+312190925,city,South Melbourne,addr
+312190925,housenumber,223,addr
+312190925,postcode,3205,addr
+312190925,street,Normanby Road,addr
+312190925,building,yes,regular
+312190925,name,Access Self Storage,regular
+312190925,website,http://www.accstor.com.au/index.html,regular
+313488470,building,yes,regular
+314192767,building,industrial,regular
+314806653,highway,service,regular
+314806653,service,alley,regular
+315107050,building,yes,regular
+315396022,highway,service,regular
+315396022,service,alley,regular
+315404854,highway,primary_link,regular
+315698532,highway,service,regular
+315698532,service,alley,regular
+316159155,highway,service,regular
+316159155,service,alley,regular
+316855874,building,yes,regular
+317754076,covered,yes,regular
+317754076,electrified,no,regular
+317754076,gauge,1600,regular
+317754076,railway,rail,regular
+317754076,service,siding,regular
+319803031,highway,footway,regular
+320880321,colour,bde4b6,building
+320880321,part,yes,building
+320880321,height,8 m,regular
+320880321,height,1 m,roof
+321362719,building,yes,regular
+321364476,building,yes,regular
+321367272,building,yes,regular
+321369690,building,yes,regular
+321792706,building,roof,regular
+321792706,height,5 m,regular
+324626003,cycleway,lane,regular
+324626003,highway,residential,regular
+324626003,name,Courtney Street,regular
+324626003,oneway,yes,regular
+325579461,building,yes,regular
+325579524,building,yes,regular
+326069182,leisure,park,regular
+326843608,building,yes,regular
+327021595,building,yes,regular
+327029476,highway,unclassified,regular
+327029476,oneway,yes,regular
+327364204,highway,service,regular
+327364204,oneway,yes,regular
+327364204,service,parking_aisle,regular
+327709479,building,yes,regular
+327953179,building,yes,regular
+329103850,highway,primary,regular
+329103850,lanes,2,regular
+329103850,name,Van Ness Avenue,regular
+329103850,network,S,regular
+329103850,oneway,yes,regular
+329103850,ref,S 37,regular
+329103850,source,Yahoo,regular
+329103850,name,survey,source
+329802793,building,yes,regular
+329984370,building,yes,regular
+330164913,building,yes,regular
+330450688,leisure,pitch,regular
+331451290,interpolation,odd,addr
+331765085,building,residential,regular
+331765141,building,residential,regular
+331765201,building,residential,regular
+331765263,building,residential,regular
+331765326,building,residential,regular
+332249708,building,yes,regular
+332249708,levels,3,building
+333179192,building,warehouse,regular
+333404378,building,yes,regular
+333404378,levels,5,building
+334797344,building,commercial,regular
+335140276,building,yes,regular
+338794422,building,yes,regular
+338795725,building,yes,regular
+340252183,building,house,regular
+340546328,building,house,regular
+340547775,building,house,regular
+340548441,building,house,regular
+340548925,building,house,regular
+341125916,building,yes,regular
+341125916,name,West,regular
+341125916,operator,The University of Melbourne,regular
+345413071,landuse,commercial,regular
+346406643,building,yes,regular
+349760488,electrified,no,regular
+349760488,gauge,1435;1600,regular
+349760488,maxspeed,40,regular
+349760488,name,Southern Cross Terminal Line,regular
+349760488,oneway,yes,regular
+349760488,railway,rail,regular
+349760488,source,nearmap,regular
+354732098,electrified,contact_line,regular
+354732098,frequency,0,regular
+354732098,gauge,1600,regular
+354732098,oneway,yes,regular
+354732098,railway,rail,regular
+354732098,source,nearmap,regular
+354732098,voltage,1500,regular
+357019921,golf,green,regular
+357019921,landuse,grass,regular
+357019921,leisure,pitch,regular
+357019921,sport,golf,regular
+357943672,bicycle,no,regular
+357943672,highway,path,regular
+357943672,horse,no,regular
+357943672,surface,gravel,regular
+358094008,golf,tee,regular
+358094008,landuse,grass,regular
+358149232,bicycle,no,regular
+358149232,highway,path,regular
+358149232,horse,no,regular
+358149232,surface,gravel,regular
+362398900,bench,yes,regular
+362398900,bin,yes,regular
+362398900,name,Stop 27: Blyth Street,regular
+362398900,network,PTV - Metropolitan Trams,regular
+362398900,operator,Yarra Trams,regular
+362398900,public_transport,platform,regular
+362398900,ref,27,regular
+362398900,shelter,yes,regular
+362398900,tram,yes,regular
+362398900,wheelchair,yes,regular
+364274408,interpolation,odd,addr
+366275006,building,commercial,regular
+366275006,source,survey,regular
+366275006,geometry,Bing,source
+368742610,amenity,parking,regular
+369615757,highway,track,regular
+369615757,surface,concrete,regular
+371316191,building,yes,regular
+371316191,levels,1,building
+371316191,leisure,sports_centre,regular
+371316191,name,J.L Murphy Reserve sports pavilion,regular
+374511401,highway,footway,regular
+374511401,surface,asphalt,regular
+374904185,highway,footway,regular
+374904185,source,survey,regular
+374904185,surface,concrete,regular
+375382491,amenity,shelter,regular
+376243931,city,Seddon,addr
+376243931,housenumber,148,addr
+376243931,postcode,3011,addr
+376243931,street,Victoria Street,addr
+376243931,amenity,cafe,regular
+376243931,building,yes,regular
+376243931,name,Seddon Deadly Sins,regular
+376243931,opening_hours,Tu-Fr 08:00-09:00,regular
+376243931,phone,+96893092,regular
+377679326,highway,service,regular
+379690078,building,commercial,regular
+380688971,bicycle,no,regular
+380688971,foot,yes,regular
+380688971,highway,path,regular
+380688971,motor_vehicle,no,regular
+380688971,sidewalk,none,regular
+380688971,source,Not a physical path - pedestrians are allowed to cross the traffic island!  This is to improve walking routes.,regular
+380917307,building,yes,regular
+382366267,building,yes,regular
+383369410,highway,service,regular
+384119944,building,apartments,regular
+384934867,building,commercial,regular
+386450855,highway,footway,regular
+387448049,building,yes,regular
+389639480,highway,footway,regular
+391307558,building,roof,regular
+391819094,highway,service,regular
+391819094,service,driveway,regular
+393558707,electrified,contact_line,regular
+393558707,frequency,0,regular
+393558707,gauge,1435,regular
+393558707,name,Park Street,regular
+393558707,oneway,yes,regular
+393558707,railway,tram,regular
+393558707,voltage,600,regular
+394608308,highway,service,regular
+394608308,service,parking_aisle,regular
+398983207,bridge,yes,regular
+398983207,cycleway,lane,regular
+398983207,highway,unclassified,regular
+398983207,lanes,1,regular
+398983207,layer,2,regular
+398983207,maxspeed,50,regular
+398983207,source,default residential speed limit in Australia,maxspeed
+398983207,name,Charles Grimes Bridge Road,regular
+398983207,oneway,yes,regular
+400376025,highway,path,regular
+400376025,surface,fine_gravel,regular
+403637591,landuse,retail,regular
+403795664,highway,primary,regular
+403795664,name,Victoria Street,regular
+403795664,oneway,yes,regular
+403795664,ref,S 32,regular
+404510584,building,commercial,regular
+406535470,housenumber,2,addr
+406535470,postcode,3006,addr
+406535470,street,Clarendon Street,addr
+406535470,amenity,conference_centre,regular
+406535470,building,yes,regular
+406535470,levels,3,building
+406535470,material,glass,building
+406535470,height,30 m,regular
+406535470,layer,1,regular
+406535470,name,Melbourne Convention Centre,regular
+406535470,website,http://www.mcec.com.au,regular
+406535470,wikidata,Q3304958,regular
+406535470,wikipedia,en:Melbourne Convention and Exhibition Centre,regular
+412414517,amenity,parking,regular
+414590977,bench,yes,regular
+414590977,name,Stop 15: Epworth Hospital,regular
+414590977,network,PTV - Metropolitan Trams,regular
+414590977,operator,Yarra Trams,regular
+414590977,public_transport,platform,regular
+414590977,ref,15,regular
+414590977,route_ref,48;75,regular
+414590977,shelter,yes,regular
+414590977,tram,yes,regular
+414590977,wheelchair,yes,regular
+419812029,electrified,no,regular
+419812029,gauge,1600,regular
+419812029,maxspeed,80,regular
+419812029,name,Warrnambool / Ararat / Maryborough / Swan Hill / Echuca Line,regular
+419812029,oneway,yes,regular
+419812029,railway,rail,regular
+419812029,source,Bing,regular
+423989889,building,yes,regular
+426793306,highway,footway,regular
+426793306,lit,yes,regular
+429281471,building,yes,regular
+429281521,building,yes,regular
+431518129,barrier,fence,regular
+432504721,landuse,construction,regular
+435075712,building,yes,regular
+435075712,levels,2,building
+435093903,building,yes,regular
+435093960,building,yes,regular
+435139820,city,Northcote,addr
+435139820,postcode,3070,addr
+435139820,street,Beaconsfield Parade,addr
+435139820,amenity,school,regular
+435139820,attribution,Department of Education and Early Childhood Development,regular
+435139820,building,yes,regular
+435139820,name,Croxton Special School,regular
+435139820,phone,+94825482,regular
+435139820,source,nearmap,regular
+435139820,addr,data.vic.gov.au,source
+435146578,building,yes,regular
+435146641,building,house,regular
+435221468,building,yes,regular
+435221518,building,yes,regular
+435227560,building,yes,regular
+435227621,building,yes,regular
+435317800,building,yes,regular
+435967775,building,apartments,regular
+435967775,levels,3,building
+436339679,building,yes,regular
+437576430,highway,service,regular
+437576430,service,alley,regular
+437576430,source,Bing,regular
+439438857,highway,residential,regular
+442634144,highway,unclassified,regular
+442634144,name,Pearl River Road,regular
+442634144,oneway,yes,regular
+444488701,amenity,parking,regular
+446510664,building,yes,regular
+448062771,building,yes,regular
+449290875,highway,cycleway,regular
+449290875,width,1.5,regular
+450930886,access,private,regular
+450930886,highway,road,regular
+450930886,name,Quinn Road,regular
+455191527,city,West Melbourne,addr
+455191527,housenumber,145,addr
+455191527,postcode,3003,addr
+455191527,street,Roden Street,addr
+455191527,building,apartments,regular
+455191527,name,Tivoli,regular
+458389646,crossing,traffic_signals,regular
+458389646,footway,crossing,regular
+458389646,highway,footway,regular
+458389646,kerb,yes,regular
+458389646,surface,asphalt,regular
+458389646,tactile_paving,yes,regular
+459159493,building,yes,regular
+463359503,building,yes,regular
+463359503,levels,4,regular
+463359503,name,Melbourne Business School,regular
+463359503,operator,University of Melbourne,regular
+463359503,unimelb,202,ref
+468620100,bicycle,yes,regular
+468620100,highway,footway,regular
+468620100,horse,no,regular
+468620100,lit,no,regular
+468620100,surface,unpaved,regular
+469278719,city,West Melbourne,addr
+469278719,housenumber,199-211,addr
+469278719,postcode,3003,addr
+469278719,street,Hawke Street,addr
+469278719,building,apartments,regular
+471354241,building,yes,regular
+474104045,name,Stony Creek,regular
+474104045,waterway,river,regular
+474314376,highway,tertiary,regular
+474314376,maxheight,4.4,regular
+474314376,name,Sims Street,regular
+474745861,bicycle,yes,regular
+474745861,cycleway,no,regular
+474745861,foot,yes,regular
+474745861,highway,residential,regular
+474745861,maxspeed,50,regular
+474745861,name,Harmony Road,regular
+474745861,oneway,no,regular
+474745861,sidewalk,both,regular
+474745861,source,GPS,regular
+474745861,surface,asphalt,regular
+475220214,bicycle,yes,regular
+475220214,foot,yes,regular
+475220214,highway,footway,regular
+475220214,motor_vehicle,no,regular
+475220214,source,GPS,regular
+475220214,surface,concrete,regular
+476217031,highway,footway,regular
+478465593,conveying,forward,regular
+478465593,highway,steps,regular
+478465593,incline,up,regular
+478465593,level,1;2,regular
+478465593,width,1.5,regular
+478465648,indoor,wall,regular
+478465648,level,0;1;2,regular
+478542252,building,apartments,regular
+478542252,levels,4,building
+478996338,building,yes,regular
+479723916,bridge,yes,regular
+479723916,highway,footway,regular
+479723916,surface,wood,regular
+479838476,building,warehouse,regular
+479840931,building,house,regular
+480184556,building,restaurant,regular
+480184556,levels,1,building
+480193256,building,house,regular
+480193256,levels,1,building
+480586179,city,North Melbourne,addr
+480586179,country,AU,addr
+480586179,housenumber,75,addr
+480586179,postcode,3051,addr
+480586179,state,Victoria,addr
+480586179,street,Errol Street,addr
+480586179,amenity,bank,regular
+480586179,atm,yes,regular
+480586179,brand,ANZ,regular
+480586179,building,yes,regular
+480586179,levels,1,building
+480586179,height,7,regular
+480586179,name,ANZ,regular
+480586179,opening_hours,Mo-Th 09:30-16:00; Fr 09:30-17:00; Sa-Su off; PH off,regular
+480586179,operator,Australia and New Zealand Banking Corporation,regular
+480586179,phone,+61131314,regular
+480586179,website,https://www.anz.com.au/,regular
+480586179,wheelchair,yes,regular
+480586179,wikidata,Q714641,regular
+480586179,wikipedia,en:Australia and New Zealand Banking Group,regular
+481145875,landuse,industrial,regular
+481164315,building,silo,regular
+481164315,man_made,silo,regular
+481300674,building,yes,regular
+481300674,levels,1,building
+481300674,height,4,regular
+481750649,amenity,parking,regular
+482383551,amenity,parking,regular
+482770939,highway,service,regular
+482770939,oneway,yes,regular
+484854828,destination,"Lorimer Street, Kings Way",regular
+484854828,highway,motorway_link,regular
+484854828,lanes,1,regular
+484854828,maxspeed,80,regular
+484854828,name,Kings Way Offramp,regular
+484854828,oneway,yes,regular
+484854828,toll,yes,regular
+485036555,highway,motorway,regular
+485036555,lanes,5,regular
+485036555,maxspeed,100,regular
+485036555,name,Eastern Freeway,regular
+485036555,oneway,yes,regular
+485036555,ref,M3,regular
+485036555,source,survey,regular
+485470040,highway,service,regular
+485776229,highway,service,regular
+485776229,service,alley,regular
+485819848,crossing,school_crossing,regular
+485819848,footway,crossing,regular
+485819848,highway,footway,regular
+485988182,landuse,grass,regular
+486477056,access,private,regular
+486477056,highway,service,regular
+486477056,service,driveway,regular
+486902705,highway,proposed,regular
+486902705,name,Wurundjeri Way Extension,regular
+486902705,oneway,yes,regular
+486902705,proposed,motorway_link,regular
+488156329,highway,service,regular
+488156329,name,Jimmy Wong Lane,regular
+488156329,service,parking_aisle,regular
+488156329,surface,asphalt,regular
+489016971,cutting,yes,regular
+489016971,highway,cycleway,regular
+489280766,building,yes,regular
+490219435,amenity,fuel,regular
+490219435,brand,Mobil,regular
+490219435,landuse,retail,regular
+490219435,name,7-Eleven,regular
+490219435,website,www.7eleven.com.au,regular
+493160059,highway,proposed,regular
+495675698,amenity,parking,regular
+495675698,surface,asphalt,regular
+496773274,cables,3,regular
+496773274,circuits,1,regular
+496773274,power,line,regular
+496773274,source,Bing,regular
+496773274,voltage,220000,regular
+496773274,wires,double,regular
+497860954,barrier,fence,regular
+497866012,building,commercial,regular
+498979125,forward,Spirit of Tasmania;Tasmania,destination
+498979125,highway,primary,regular
+498979125,name,Spirit of Tasmania vehicle access,regular
+498979125,source,nearmap,regular
+499457956,building,office,regular
+501415421,leisure,playground,regular
+503144058,barrier,fence,regular

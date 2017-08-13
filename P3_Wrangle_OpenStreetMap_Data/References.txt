@@ -1,0 +1,15 @@
+References
+
+http://www.python-course.eu/sql_python.php
+
+https://pypi.python.org/pypi/python-sql
+
+http://www.openbookproject.net/py4fun/sql/sql.html
+
+http://www.openbookproject.net/py4fun/sql/sql.html
+
+https://gist.github.com/carlward/54ec1c91b62a5f911c42
+
+https://jameskao.me/data-wrangling-with-openstreetmap-and-mongodb/
+
+https://github.com/kalvii045/Cleaning-Toronto-OpenStreetMap-Data

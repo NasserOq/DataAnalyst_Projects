@@ -1,0 +1,1849 @@
+id,key,value,type
+30223684,name,Thornbury,regular
+30223684,operator,Public Transport Victoria - Metro,regular
+30223684,public_transport,station,regular
+30223684,railway,station,regular
+30404320,highway,traffic_signals,regular
+30947906,highway,traffic_signals,regular
+33366758,created_by,JOSM,regular
+34182456,created_by,JOSM,regular
+35726485,created_by,JOSM,regular
+35862458,created_by,JOSM,regular
+36688980,created_by,JOSM,regular
+36689033,created_by,JOSM,regular
+41429110,created_by,JOSM,regular
+46656636,created_by,JOSM,regular
+52504539,highway,motorway_junction,regular
+52504539,ref,3,regular
+60653731,crossing,uncontrolled,regular
+60653731,crossing_ref,zebra,regular
+60653731,highway,crossing,regular
+79398097,created_by,JOSM,regular
+85305941,created_by,JOSM,regular
+93333490,created_by,JOSM,regular
+128874985,highway,traffic_signals,regular
+130175887,bicycle,yes,regular
+130175887,crossing,traffic_signals,regular
+130175887,crossing_ref,toucan,regular
+130175887,highway,crossing,regular
+145235360,amenity,parking,regular
+145235360,created_by,JOSM,regular
+176729780,city,Melbourne,addr
+176729780,housenumber,191,addr
+176729780,postcode,3000,addr
+176729780,street,Collins Street,addr
+176729780,amenity,theatre,regular
+176729780,name,Regent Theatre,regular
+176729780,operator,Marriner Group,regular
+176729780,website,http://www.marrinergroup.com.au/theatre-regent.php,regular
+176729780,wikidata,Q7308110,regular
+243185586,created_by,JOSM,regular
+244118697,highway,traffic_signals,regular
+244307212,created_by,JOSM,regular
+244310929,created_by,JOSM,regular
+244590491,created_by,JOSM,regular
+244591121,created_by,JOSM,regular
+245807352,barrier,bollard,regular
+245807352,name,Gate 13,regular
+248214933,amenity,toilets,regular
+248214933,name,Public Toilets,regular
+248746700,traffic_calming,table,regular
+252344811,created_by,JOSM,regular
+257520713,highway,turning_circle,regular
+257529160,highway,traffic_signals,regular
+259621599,highway,traffic_signals,regular
+266286404,created_by,JOSM,regular
+286387074,amenity,pub,regular
+286387074,created_by,JOSM,regular
+286387074,name,Great Northern Hotel,regular
+286392331,created_by,JOSM,regular
+287629356,created_by,JOSM,regular
+287630798,created_by,JOSM,regular
+291209939,amenity,bank,regular
+291209939,atm,yes,regular
+291209939,name,Commonwealth Bank,regular
+291209939,website,www.commbank.com.au,regular
+295809100,barrier,gate,regular
+306073729,name,Parliament,regular
+306073729,railway,subway_entrance,regular
+307586499,amenity,telephone,regular
+307586499,internet_access,wlan,regular
+307586499,operator,Telstra,regular
+307586499,wifi,yes,regular
+308435378,created_by,Potlatch 0.10e,regular
+308435378,leisure,playground,regular
+310006665,power,tower,regular
+310009635,power,tower,regular
+311668920,crossing,traffic_signals,regular
+311668920,highway,crossing,regular
+319866039,crossing,traffic_signals,regular
+319866039,highway,crossing,regular
+324234180,amenity,telephone,regular
+331163229,city,Carlton,addr
+331163229,housenumber,225,addr
+331163229,postcode,3053,addr
+331163229,street,Drummond Street,addr
+331163229,name,Travel Inn Hotel,regular
+331163229,operator,Best Western,regular
+331163229,phone,0393477922,regular
+331163229,tourism,hotel,regular
+331163229,website,http://www.thetravelinn.com.au,regular
+333785285,housenumber,355,addr
+333785285,postcode,3205,addr
+333785285,street,Park Street,addr
+333785285,amenity,pub,regular
+333785285,name,Montague Hotel,regular
+333785285,website,http://montaguehotel.com.au/,regular
+344620461,amenity,place_of_worship,regular
+344620461,denomination,anglican,regular
+344620461,name,Christ Church Anglican Church,regular
+344620461,religion,christian,regular
+348740779,entrance,yes,regular
+364328889,description,Elevator to underground car park,regular
+364328889,entrance,yes,regular
+364328889,highway,elevator,regular
+364874053,city,Fitzroy,addr
+364874053,housenumber,206-210,addr
+364874053,postcode,3065,addr
+364874053,street,Brunswick Street,addr
+364874053,amenity,pharmacy,regular
+364874053,dispensing,yes,regular
+364874053,name,Chemist Warehouse,regular
+364874053,opening_hours,Mo-Fr 9:00-21:00; Sa 9:00-17:00; Su 10:00-17:00,regular
+364874053,phone,+94172917,regular
+364874053,website,http://www.chemistwarehouse.com.au/,regular
+367101779,created_by,Merkaartor 0.12,regular
+367779685,created_by,Merkaartor 0.12,regular
+368117865,city,Fitzroy,addr
+368117865,housenumber,376,addr
+368117865,postcode,3065,addr
+368117865,street,Brunswick Street,addr
+368117865,amenity,pub,regular
+368117865,name,Bimbo Deluxe,regular
+368117865,phone,0394198600,regular
+368117865,website,http://www.bimbodeluxe.com.au,regular
+368380515,highway,traffic_signals,regular
+380063506,amenity,telephone,regular
+402501205,amenity,post_box,regular
+402501205,operator,Australia Post,regular
+452354569,highway,traffic_signals,regular
+471341004,barrier,bollard,regular
+477304554,barrier,gate,regular
+493881504,amenity,place_of_worship,regular
+493881504,denomination,uniting,regular
+493881504,name,Christ Church Kensington,regular
+493881504,religion,christian,regular
+496009835,city,North Melbourne,addr
+496009835,country,AU,addr
+496009835,housenumber,"226,228",addr
+496009835,postcode,3051,addr
+496009835,street,Errol Street,addr
+525341560,barrier,gate,regular
+525341560,bicycle,yes,regular
+525341560,foot,yes,regular
+525341560,horse,yes,regular
+525341560,motorcar,yes,regular
+525341560,motorcycle,yes,regular
+525341560,name,Gate 6,regular
+541314232,highway,turning_circle,regular
+560988352,name,Stop D17: Collins Landing,regular
+560988352,network,PTV - Metropolitan Trams,regular
+560988352,operator,Yarra Trams,regular
+560988352,public_transport,stop_position,regular
+560988352,ref,D17,regular
+560988352,tram,yes,regular
+565960763,city,North Melbourne,addr
+565960763,housenumber,20,addr
+565960763,interpolation,even,addr
+565960763,postcode,3051,addr
+565960763,street,Molesworth Street,addr
+567772383,source,nearmap,regular
+567772383,traffic_calming,bump,regular
+569890844,barrier,gate,regular
+571647163,city,Brunswick West,addr
+571647163,country,AU,addr
+571647163,housenumber,94,addr
+571647163,postcode,3055,addr
+571647163,street,Collier Crescent,addr
+571741491,amenity,telephone,regular
+575390875,barrier,gate,regular
+575390875,designation,Gate 5,regular
+575390875,entrance,yes,regular
+575390875,name,Gate 5,regular
+575526478,barrier,bollard,regular
+575558996,name,South Yarra,regular
+575558996,network,PTV - Metropolitan Trains,regular
+575558996,operator,Metro Trains Melbourne,regular
+575558996,public_transport,stop_position,regular
+575558996,ref,SYR,regular
+575558996,train,yes,regular
+576853304,railway,switch,regular
+577449602,housenumber,264-266,addr
+577449602,street,Toorak Road,addr
+577449602,amenity,restaurant,regular
+577449602,cuisine,japanese,regular
+577449602,name,Kagu Ra Zaka,regular
+577449602,phone,0398272608,regular
+579498335,railway,switch,regular
+579999037,railway,level_crossing,regular
+582223052,railway,level_crossing,regular
+582893311,crossing,traffic_signals,regular
+582893311,highway,crossing,regular
+583447598,barrier,bollard,regular
+583447598,source,nearmap,regular
+589399136,natural,tree,regular
+591199831,barrier,gate,regular
+591430826,name,"Stop 5: Flinders Street Station, Swanston Street",regular
+591430826,network,PTV - Metropolitan Trams,regular
+591430826,operator,Yarra Trams,regular
+591430826,public_transport,stop_position,regular
+591430826,ref,5,regular
+591430826,tram,yes,regular
+591883852,amenity,telephone,regular
+591883852,internet_access,wlan,regular
+591883852,operator,Telstra,regular
+591883852,wifi,yes,regular
+595564226,amenity,pub,regular
+595564226,name,Elms Family Hotel (Permanently closed),regular
+598120503,amenity,telephone,regular
+599890921,city,Carlton North,addr
+599890921,housenumber,382,addr
+599890921,postcode,3054,addr
+599890921,street,Rathdowne Street,addr
+599890921,amenity,fast_food,regular
+599890921,name,The Seafood Place,regular
+599890921,wheelchair,limited,regular
+600744878,housenumber,199,addr
+600744878,postcode,3000,addr
+600744878,street,Russell Street,addr
+600744878,amenity,pub,regular
+600744878,name,Exford Hotel,regular
+600744878,website,http://www.exfordhotel.com.au/,regular
+600744878,wheelchair,yes,regular
+603633252,traffic_calming,hump,regular
+613367916,city,Fitzroy,addr
+613367916,housenumber,186,addr
+613367916,postcode,3065,addr
+613367916,street,Nicholson Street,addr
+613367916,amenity,doctors,regular
+613367916,name,Victorian Aboriginal Health Service Co-operative Ltd,regular
+613367916,opening_hours,Mo-Th 9:00-17:00; Fr 9:00-16:00; Sa 10:00-12:00,regular
+613367916,phone,+94193000,regular
+613367916,website,http://www.vahs.org.au,regular
+616935421,city,Melbourne,addr
+616935421,housenumber,405-411,addr
+616935421,postcode,3000,addr
+616935421,street,Flinders Lane,addr
+616935421,amenity,restaurant,regular
+616935421,email,info@thetrust.com.au,contact
+616935421,name,The Trust,regular
+616935421,phone,+96299300,regular
+616935421,website,http://www.thetrust.com.au/,regular
+617439485,amenity,cafe,regular
+617439485,name,In A Rush Kitchen,regular
+617908884,access,gate,regular
+620280236,name,Chocolateria San Churro,regular
+620280236,opening_hours,Su-Th 10:00-23:00; Fr-Sa 10:00-1:00,regular
+620280236,shop,confectionery,regular
+622803015,city,Melbourne,addr
+622803015,housenumber,575,addr
+622803015,postcode,3000,addr
+622803015,street,Flinders Lane,addr
+622803015,building,retail,regular
+622803015,name,Holiday Inn on Flinders,regular
+622803015,phone,0396294111,regular
+622803015,tourism,hotel,regular
+622803015,website,melbourne.holidayinn.com,regular
+623878522,housenumber,270-274,addr
+623878522,street,Nicholson Street,addr
+623878522,name,True Alliance Brand Outlet,regular
+623878522,opening_hours,Mo-Sa 10:00-18:00; Su 10:00-17:00,regular
+623878522,shop,clothes,regular
+624940912,city,Melbourne,addr
+624940912,housenumber,502-504,addr
+624940912,postcode,3000,addr
+624940912,street,Flinders Street,addr
+624940912,amenity,pub,regular
+624940912,name,Insignia on Flinders,regular
+624940912,phone,0396297405,regular
+633161939,city,Fitzroy,addr
+633161939,housenumber,137,addr
+633161939,postcode,3065,addr
+633161939,street,Brunswick Street,addr
+633161939,name,Free Choice Tobacconist,regular
+633161939,shop,tobacco,regular
+635544144,city,Melbourne,addr
+635544144,housenumber,318,addr
+635544144,postcode,3000,addr
+635544144,street,William Street,addr
+635544144,amenity,restaurant,regular
+635544144,name,The Mint,regular
+635544144,phone,+96025622,regular
+635544144,website,http://www.themint.com.au/,regular
+639585791,access,private,regular
+639585791,barrier,gate,regular
+639585791,source,nearmap,regular
+648761765,housenumber,393,addr
+648761765,street,Fitzroy Street,addr
+648761765,name,Inner City Towing & Smash Repairs,regular
+648761765,phone,0394196118,regular
+648761765,shop,car_repair,regular
+654003759,city,Collingwood,addr
+654003759,country,AU,addr
+654003759,housenumber,278,addr
+654003759,postcode,3066,addr
+654003759,state,Victoria,addr
+654003759,street,Wellington Street,addr
+654003759,shop,vacant,regular
+654003759,wheelchair,no,regular
+663123803,city,Melbourne,addr
+663123803,housenumber,535,addr
+663123803,postcode,3000,addr
+663123803,street,Little Lonsdale Street,addr
+663123803,amenity,restaurant,regular
+663123803,name,Grill Room,regular
+663123803,phone,0396022228,regular
+663936497,amenity,telephone,regular
+663936497,internet_access,wlan,regular
+663936497,operator,Telstra,regular
+663936497,wifi,yes,regular
+667222174,housenumber,287,addr
+667222174,postcode,3000,addr
+667222174,street,King Street,addr
+667222174,amenity,pub,regular
+667222174,name,The Golden Age,regular
+667222174,website,http://www.hotelsophia.com.au/the_golden_age,regular
+667680170,city,Melbourne,addr
+667680170,housenumber,110,addr
+667680170,postcode,3000,addr
+667680170,street,Exhibition Street,addr
+667680170,name,Flight Centre Southern Cross,regular
+667680170,phone,+92994044,regular
+667680170,shop,travel_agency,regular
+676618750,city,Carlton,addr
+676618750,housenumber,62,addr
+676618750,postcode,3053,addr
+676618750,street,Lygon Street,addr
+676618750,amenity,cafe,regular
+676618750,internet_access,wlan,regular
+676618750,name,Artee Cafe,regular
+676618750,phone,+96636263,regular
+678344425,housenumber,91,addr
+678344425,street,Grattan Street,addr
+678344425,atm,yes,regular
+678344425,name,Smart Mart,regular
+678344425,shop,convenience,regular
+686125987,amenity,telephone,regular
+702377791,natural,tree,regular
+711766687,access,private,regular
+711766687,amenity,parking,regular
+711766687,name,Entry E,regular
+716356419,amenity,telephone,regular
+725765645,bus,yes,regular
+725765645,highway,bus_stop,regular
+725765645,name,Melville Road,regular
+725765645,network,PTV - Metropolitan Buses,regular
+725765645,operator,Dysons,regular
+725765645,public_transport,platform,regular
+725765645,route_ref,508,regular
+758616922,barrier,gate,regular
+767729455,barrier,bollard,regular
+767729455,source,nearmap,regular
+768252658,city,Melbourne,addr
+768252658,housenumber,348,addr
+768252658,postcode,3004,addr
+768252658,street,St Kilda Road,addr
+768252658,amenity,restaurant,regular
+768252658,email,book@orienteast.com.au,contact
+768252658,cuisine,malaysian,regular
+768252658,name,Orient East,regular
+768252658,outdoor_seating,yes,regular
+768252658,phone,+96852900,regular
+768252658,smoking,outside,regular
+768252658,website,http://www.orienteast.com.au/,regular
+768252658,wheelchair,limited,regular
+772402819,city,Brunswick East,addr
+772402819,housenumber,128,addr
+772402819,postcode,3057,addr
+772402819,street,Nicholson Street,addr
+772402819,amenity,restaurant,regular
+772402819,building,yes,regular
+772402819,cuisine,pizza,regular
+772402819,name,Iliana Restaurant,regular
+772402819,phone,+93810404,regular
+781137276,name,Stop 14: Abbotsford Street,regular
+781137276,network,PTV - Metropolitan Trams,regular
+781137276,operator,Yarra Trams,regular
+781137276,public_transport,platform,regular
+781137276,ref,14,regular
+781137276,route_ref,57,regular
+781137276,tram,yes,regular
+812680713,city,Melbourne,addr
+812680713,postcode,3000,addr
+812680713,street,Beaney Lane,addr
+812680713,amenity,bar,regular
+812680713,name,Spice Market,regular
+812680713,phone,+96603777,regular
+812680713,website,http://www.spicemarket.net.au/,regular
+820788014,city,South Melbourne,addr
+820788014,housenumber,60,addr
+820788014,postcode,3205,addr
+820788014,street,Park Street,addr
+820788014,amenity,restaurant,regular
+820788014,cuisine,japanese,regular
+820788014,name,Tempura Hajime,regular
+820788014,outdoor_seating,no,regular
+820788014,phone,+96960051‎,regular
+820788014,smoking,no,regular
+820788014,takeaway,no,regular
+820788014,website,http://www.tempurahajime.com/,regular
+822465932,railway,crossing,regular
+828414268,highway,traffic_signals,regular
+831451405,power,tower,regular
+831451405,source,nearmap,regular
+833656071,natural,tree,regular
+833656071,source,nearmap,regular
+844360571,name,Myer Furniture Store,regular
+844360571,shop,furniture,regular
+844490981,crossing,traffic_signals,regular
+844490981,highway,crossing,regular
+846565378,highway,traffic_signals,regular
+869967587,shop,convenience,regular
+968356670,amenity,cafe,regular
+968356670,name,Melba Café,regular
+973252137,leisure,playground,regular
+990668796,city,Collingwood,addr
+990668796,housenumber,288,addr
+990668796,postcode,3066,addr
+990668796,street,Smith Street,addr
+990668796,amenity,cafe,regular
+990668796,name,Rockwell and Sons,regular
+990668796,outdoor_seating,yes,regular
+990668796,phone,+84150700,regular
+990668796,smoking,outside,regular
+998806963,city,Brunswick West,addr
+998806963,country,AU,addr
+998806963,housenumber,168a,addr
+998806963,postcode,3055,addr
+998806963,street,Melville Road,addr
+1005020984,housenumber,4/227,addr
+1005020984,street,Collins Street,addr
+1005020984,amenity,restaurant,regular
+1005020984,website,http://www.omvegetarian.com/,contact
+1005020984,cuisine,indian; vegetarian,regular
+1005020984,vegetarian,only,diet
+1005020984,name,Om,regular
+1005020984,opening_hours,11:00-21:00,regular
+1005020984,opening_hours,website,source
+1010478105,city,Brunswick West,addr
+1010478105,country,AU,addr
+1010478105,housenumber,20,addr
+1010478105,postcode,3055,addr
+1010478105,street,Wyall Street,addr
+1012054402,city,Carlton,addr
+1012054402,country,AU,addr
+1012054402,housenumber,444,addr
+1012054402,postcode,3053,addr
+1012054402,street,Swanston Street,addr
+1013066464,city,Brunswick,addr
+1013066464,country,AU,addr
+1013066464,housenumber,55,addr
+1013066464,postcode,3056,addr
+1013066464,street,Hope Street,addr
+1013066464,building,yes,regular
+1015598874,city,Melbourne,addr
+1015598874,country,AU,addr
+1015598874,housenumber,173,addr
+1015598874,postcode,3000,addr
+1015598874,street,Swanston Street,addr
+1021731064,amenity,cafe,regular
+1021731064,name,Romano's Coffee,regular
+1025525925,city,Parkville,addr
+1025525925,country,AU,addr
+1025525925,housenumber,99,addr
+1025525925,postcode,3052,addr
+1025525925,street,Royal Parade,addr
+1027209715,name,TAB,regular
+1027209715,shop,bookmaker,regular
+1030460058,city,Melbourne,addr
+1030460058,country,AU,addr
+1030460058,housenumber,341,addr
+1030460058,postcode,3000,addr
+1030460058,street,Little Bourke Street,addr
+1030460058,building,retail,regular
+1034437018,city,Essendon,addr
+1034437018,country,AU,addr
+1034437018,housenumber,300,addr
+1034437018,postcode,3040,addr
+1034437018,street,Buckley Street,addr
+1040122894,amenity,bicycle_parking,regular
+1040122894,capacity,40,regular
+1040122894,covered,no,regular
+1046712346,amenity,bicycle_parking,regular
+1055793075,amenity,restaurant,regular
+1055793075,cuisine,italian,regular
+1055793075,name,Ecco da Nicolini,regular
+1055841931,highway,traffic_signals,regular
+1072264557,city,Kensington,addr
+1072264557,country,AU,addr
+1072264557,housenumber,60,addr
+1072264557,postcode,3031,addr
+1072537121,city,Kensington,addr
+1072537121,country,AU,addr
+1072537121,housenumber,105,addr
+1072537121,postcode,3031,addr
+1072537121,street,McConnell Street,addr
+1072618097,name,Kensington Eyecare,regular
+1072618097,shop,optician,regular
+1074085246,city,Fitzroy,addr
+1074085246,housenumber,236,addr
+1074085246,postcode,3065,addr
+1074085246,street,Gertrude Street,addr
+1074085246,name,Northside Records,regular
+1074085246,opening_hours,Mo-We 11:00-18:00; Th-Fr 11:00-19:00; Sa-Su 11:00-17:00,regular
+1074085246,phone,+94177557,regular
+1074085246,shop,music,regular
+1080052561,housenumber,68,addr
+1080052561,street,Lonsdale Street,addr
+1080052561,amenity,doctors,regular
+1080052561,name,Melbourne City Medical Centre,regular
+1080052561,phone,+96399600,regular
+1104149817,name,Hot Potatoes Super $2 Shop,regular
+1104149817,shop,second_hand,regular
+1104149817,wheelchair,limited,regular
+1118387675,city,Port Melbourne,addr
+1118387675,country,AU,addr
+1118387675,housenumber,118,addr
+1118387675,postcode,3207,addr
+1118387675,state,Victoria,addr
+1118387675,street,Bridge Street,addr
+1118387675,amenity,cafe,regular
+1118387675,cuisine,coffee_shop,regular
+1118387675,name,My Sister Says,regular
+1118387675,outdoor_seating,yes,regular
+1118387675,phone,0\96461117,regular
+1118387675,smoking,outside,regular
+1118387675,takeaway,yes,regular
+1118387675,wheelchair,no,toilets
+1118387675,wheelchair,limited,regular
+1131857788,housenumber,371,addr
+1131857788,street,Clarendon Street,addr
+1131857788,name,Red Scissors,regular
+1131857788,phone,+96865223,regular
+1131857788,shop,hairdresser,regular
+1132182092,city,Brunswick West,addr
+1132182092,country,AU,addr
+1132182092,housenumber,856,addr
+1132182092,postcode,3055,addr
+1132182092,street,Park Street,addr
+1132182092,building,yes,regular
+1224869676,barrier,gate,regular
+1282403411,amenity,cafe,regular
+1282403411,cuisine,Salad,regular
+1282403411,name,Nourish Salads,regular
+1283618043,highway,traffic_signals,regular
+1287463789,button_operated,yes,regular
+1287463789,crossing,traffic_signals,regular
+1287463789,highway,traffic_signals,regular
+1287463789,sound,yes,traffic_signals
+1299188402,barrier,gate,regular
+1299188402,bicycle,yes,regular
+1299188402,foot,yes,regular
+1306530083,amenity,post_box,regular
+1306530083,operator,Australia Post,regular
+1325968217,city,Brunswick East,addr
+1325968217,country,AU,addr
+1325968217,housenumber,2,addr
+1325968217,postcode,3057,addr
+1325968217,street,Akeroa Avenue,addr
+1325968217,building,yes,regular
+1325968217,entrance,yes,regular
+1325968217,fixme,position estimated,regular
+1327108777,city,Brunswick East,addr
+1327108777,housenumber,225,addr
+1327108777,postcode,3057,addr
+1327108777,street,Nicholson Street,addr
+1327108777,building,yes,regular
+1327108777,entrance,yes,regular
+1327108890,city,Brunswick East,addr
+1327108890,country,AU,addr
+1327108890,housenumber,5,addr
+1327108890,postcode,3057,addr
+1327108890,street,Orari Avenue,addr
+1327108890,building,yes,regular
+1327108890,entrance,yes,regular
+1327108890,fixme,position estimated,regular
+1350265527,amenity,bench,regular
+1458422273,highway,traffic_signals,regular
+1463401847,city,Fitzroy,addr
+1463401847,housenumber,122,addr
+1463401847,postcode,3065,addr
+1463401847,street,Gertrude Street,addr
+1463401847,name,Since Grey,regular
+1463401847,opening_hours,Mo 12:00-18:00; Tu-Sa 11:00-18:00; Su 12:00-17:00,regular
+1463401847,phone,+94160458,regular
+1463401847,shop,clothes,regular
+1463401847,website,http://sincegrey.com,regular
+1525908983,highway,traffic_signals,regular
+1545387632,natural,tree,regular
+1550304859,city,Melbourne,addr
+1550304859,country,AU,addr
+1550304859,housenumber,55,addr
+1550304859,postcode,3032,addr
+1550304859,street,The Parade,addr
+1550304859,suburb,Ascot Vale,addr
+1550304989,city,Melbourne,addr
+1550304989,country,AU,addr
+1550304989,housenumber,52,addr
+1550304989,postcode,3032,addr
+1550304989,street,St Leonard's Road,addr
+1550304989,suburb,Ascot Vale,addr
+1560149472,natural,tree,regular
+1587862510,highway,traffic_signals,regular
+1629169160,city,Fitzroy North,addr
+1629169160,country,AU,addr
+1629169160,housenumber,4,addr
+1629169160,postcode,3068,addr
+1629169160,state,Victoria,addr
+1629169160,street,Barkly Street,addr
+1629169160,building,yes,regular
+1629211296,city,Fitzroy North,addr
+1629211296,country,AU,addr
+1629211296,housenumber,1,addr
+1629211296,postcode,3068,addr
+1629211296,state,Victoria,addr
+1629211296,street,Barkly Street,addr
+1629211296,building,yes,regular
+1629217138,city,Fitzroy North,addr
+1629217138,country,AU,addr
+1629217138,housenumber,169,addr
+1629217138,postcode,3068,addr
+1629217138,state,Victoria,addr
+1629217138,street,Clauscen Street,addr
+1629217138,building,yes,regular
+1633698135,housenumber,232,addr
+1633698135,postcode,3207,addr
+1633698135,name,Frank Gordon Estate Agents,regular
+1633698135,shop,estate_agent,regular
+1668259759,natural,tree,regular
+1668345368,natural,tree,regular
+1669608412,city,Brunswick East,addr
+1669608412,country,AU,addr
+1669608412,housenumber,294,addr
+1669608412,postcode,3057,addr
+1669608412,street,Glenlyon Road,addr
+1669608412,building,yes,regular
+1669636517,city,Fitzroy North,addr
+1669636517,country,AU,addr
+1669636517,housenumber,28,addr
+1669636517,postcode,3068,addr
+1669636517,state,Victoria,addr
+1669636517,street,Willowbank Road,addr
+1669636517,building,yes,regular
+1669859091,city,Fitzroy North,addr
+1669859091,country,AU,addr
+1669859091,housenumber,2,addr
+1669859091,postcode,3068,addr
+1669859091,state,Victoria,addr
+1669859091,street,Pilkington Street,addr
+1669859091,building,yes,regular
+1671530118,city,Brunswick East,addr
+1671530118,country,AU,addr
+1671530118,housenumber,113,addr
+1671530118,postcode,3057,addr
+1671530118,street,Nicholson Street,addr
+1671530118,building,yes,regular
+1671541705,city,Brunswick East,addr
+1671541705,country,AU,addr
+1671541705,housenumber,2A,addr
+1671541705,postcode,3057,addr
+1671541705,street,Arnold Street,addr
+1671541705,building,yes,regular
+1671554405,city,Brunswick East,addr
+1671554405,country,AU,addr
+1671554405,housenumber,22,addr
+1671554405,postcode,3057,addr
+1671554405,street,Lygon Street,addr
+1671554405,building,yes,regular
+1671557053,city,Brunswick East,addr
+1671557053,country,AU,addr
+1671557053,housenumber,92,addr
+1671557053,postcode,3057,addr
+1671557053,street,Lygon Street,addr
+1671557053,building,yes,regular
+1671989725,natural,tree,regular
+1672010481,natural,tree,regular
+1672010596,natural,tree,regular
+1681071620,city,Yarraville,addr
+1681071620,housenumber,61,addr
+1681071620,postcode,3013,addr
+1681071620,street,Anderson Street,addr
+1681071620,amenity,restaurant,regular
+1681071620,cuisine,pizza,regular
+1681071620,name,Mad Moose Pizza,regular
+1681071620,opening_hours,Fr-Sa 11:00-23:00; Su-Th 11:00-22:00,regular
+1681071620,website,http://madmoose.com.au,regular
+1691663886,highway,traffic_signals,regular
+1759653846,highway,street_lamp,regular
+1759653846,source,survey,regular
+1761988194,city,Melbourne,addr
+1761988194,housenumber,2,addr
+1761988194,postcode,3070,addr
+1761988194,street,Stanley Street,addr
+1761988194,suburb,Northcote,addr
+1761988194,building,yes,regular
+1761988194,source,survey,regular
+1761988244,city,Melbourne,addr
+1761988244,housenumber,5,addr
+1761988244,postcode,3070,addr
+1761988244,street,Leonard Street,addr
+1761988244,suburb,Northcote,addr
+1761988244,source,survey,regular
+1767432050,railway,crossing,regular
+1768321122,housenumber,29,addr
+1768321173,housenumber,18,addr
+1780058074,housenumber,67,addr
+1780058124,housenumber,20,addr
+1780062865,housenumber,23,addr
+1826198578,highway,bus_stop,regular
+1842143172,railway,level_crossing,regular
+1866661868,amenity,car_wash,regular
+1877472375,bench,yes,regular
+1877472375,bin,no,regular
+1877472375,bus,yes,regular
+1877472375,name,Melbourne University,regular
+1877472375,network,PTV - Metropolitan Buses,regular
+1877472375,not_served_by,403,regular
+1877472375,operator,Sita;Dysons,regular
+1877472375,public_transport,platform,regular
+1877472375,ref,7588,regular
+1877472375,route_ref,401;402;546,regular
+1877472375,shelter,yes,regular
+1877472375,wheelchair,limited,regular
+1963988604,city,Brunswick East,addr
+1963988604,country,AU,addr
+1963988604,housenumber,82A,addr
+1963988604,postcode,3057,addr
+1963988604,street,John Street,addr
+1963988604,building,yes,regular
+1964021890,barrier,turnstile,regular
+1964021890,entrance,yes,regular
+1964023962,entrance,yes,regular
+1985198627,city,Brunswick West,addr
+1985198627,country,AU,addr
+1985198627,housenumber,140,addr
+1985198627,postcode,3055,addr
+1985198627,state,Victoria,addr
+1985198627,street,Dawson Street,addr
+1985198627,amenity,cafe,regular
+1985198627,internet_access,wlan,regular
+1985198627,name,McIver's North Tea and Coffee,regular
+1986318044,city,Albert Park?,addr
+1986318044,country,AU,addr
+1986318044,housenumber,95,addr
+1986318044,postcode,3206,addr
+1986318044,state,Victoria,addr
+1986318044,street,Victoria Avenue,addr
+1986318044,amenity,restaurant,regular
+1986318044,cuisine,chinese,regular
+1986318044,drive_in,no,regular
+1986318044,internet_access,no,regular
+1986318044,fee,no,internet_access
+1986318044,microbrewery,no,regular
+1986318044,name,VicAisia,regular
+1986318044,outdoor_seating,yes,regular
+1986318044,phone,+96902390,regular
+1986318044,smoking,separated,regular
+1986318044,takeaway,yes,regular
+1986318044,wheelchair,no,toilets
+1986318044,website,http://www.vicasia.com.au/,regular
+1986318044,wheelchair,limited,regular
+1989057853,barrier,gate,regular
+1998095066,amenity,bicycle_parking,regular
+1998095066,capacity,2,regular
+2017401834,amenity,bicycle_parking,regular
+2017401834,capacity,12,regular
+2020813883,highway,traffic_signals,regular
+2024786261,city,Fitzroy,addr
+2024786261,housenumber,133,addr
+2024786261,postcode,3065,addr
+2024786261,street,Brunswick Street,addr
+2024786261,source,Collected via KeypadMapper,regular
+2024786421,city,Melbourne,addr
+2024786421,housenumber,688,addr
+2024786421,postcode,3000,addr
+2024786421,street,Bourke Street,addr
+2024786421,source,Collected via KeypadMapper,regular
+2029634240,housenumber,11,addr
+2029634240,street,Stanley Street,addr
+2056959137,city,Fitzroy North,addr
+2056959137,country,AU,addr
+2056959137,housenumber,150,addr
+2056959137,postcode,3068,addr
+2056959137,state,Victoria,addr
+2056959137,street,Holden Street,addr
+2056959137,building,yes,regular
+2056989599,city,North Fitzroy,addr
+2056989599,country,AU,addr
+2056989599,housenumber,41,addr
+2056989599,postcode,3068,addr
+2056989599,street,Liverpool Street,addr
+2056989599,building,yes,regular
+2067995526,city,Fitzroy North,addr
+2067995526,country,AU,addr
+2067995526,housenumber,35,addr
+2067995526,postcode,3068,addr
+2067995526,state,Victoria,addr
+2067995526,street,Batman Street,addr
+2067995526,building,yes,regular
+2069581657,housenumber,11,addr
+2069581657,street,Bedford Street,addr
+2090532856,is_in,"Melbourne,Victoria,Australia",regular
+2090532856,name,Port Melbourne,regular
+2090532856,place,suburb,regular
+2090532856,postal_code,3207,regular
+2090532856,wikipedia,"en:Port Melbourne, Victoria",regular
+2102329926,amenity,drinking_water,regular
+2105115007,city,Carlton,addr
+2105115007,housenumber,146A,addr
+2105115007,postcode,3053,addr
+2105115007,street,Elgin Street,addr
+2105115007,amenity,embassy,regular
+2105115007,country,ES,regular
+2105115007,name,Consulate General of Spain,regular
+2105115007,es,Consulado General de España,name
+2105449021,highway,traffic_signals,regular
+2108155854,city,Collingwood,addr
+2108155854,housenumber,33,addr
+2108155854,postcode,3066,addr
+2108155854,street,Johnston Street,addr
+2108155854,amenity,cafe,regular
+2108155854,internet_access,wlan,regular
+2108155854,name,Everyday Coffee,regular
+2108155854,phone,+99734159,regular
+2108155854,website,http://everyday-coffee.com/,regular
+2120443465,city,Fitzroy North,addr
+2120443465,country,AU,addr
+2120443465,housenumber,226,addr
+2120443465,postcode,3068,addr
+2120443465,state,Victoria,addr
+2120443465,street,Holden Street,addr
+2120443465,building,yes,regular
+2133002597,city,Collingwood,addr
+2133002597,housenumber,83,addr
+2133002597,postcode,3066,addr
+2133002597,street,Johnston Street,addr
+2133002597,name,Collingwood Massage Therapy,regular
+2133002597,phone,+94171601,regular
+2133002597,shop,massage,regular
+2144927711,amenity,vending_machine,regular
+2144927711,name,4363,regular
+2144927711,operator,City of Port Phillip,regular
+2144927711,vending,parking_tickets,regular
+2158532163,city,Collingwood,addr
+2158532163,housenumber,320,addr
+2158532163,postcode,3066,addr
+2158532163,street,Wellington Street,addr
+2158532163,name,Moroccan Homewares,regular
+2158532163,phone,+94160917,regular
+2158532163,shop,interior_decoration,regular
+2174950801,crossing,traffic_signals,regular
+2174950801,highway,traffic_signals,regular
+2178100421,housenumber,291/325,addr
+2178100421,postcode,3032,addr
+2178100421,street,Mount Alexander Road,addr
+2178100421,name,Dan Murphy's,regular
+2178100421,shop,alcohol,regular
+2178100421,website,www.danmurphys.com.au,regular
+2187874241,highway,traffic_signals,regular
+2189143650,highway,traffic_signals,regular
+2190566773,name,"Stop 1: Flinders Street Station, Flinders Street",regular
+2190566773,network,PTV - Metropolitan Trams,regular
+2190566773,operator,Yarra Trams,regular
+2190566773,public_transport,stop_position,regular
+2190566773,ref,1,regular
+2190566773,tram,yes,regular
+2202865397,city,Abbotsford,addr
+2202865397,housenumber,239,addr
+2202865397,postcode,3067,addr
+2202865397,street,Johnston Street,addr
+2202865397,amenity,restaurant,regular
+2202865397,cuisine,italian,regular
+2202865397,name,Rita's Cafeteria,regular
+2202865397,outdoor_seating,yes,regular
+2202865397,phone,+94198233,regular
+2202865397,takeaway,yes,regular
+2202865397,website,http://ritasabbotsford.com.au/,regular
+2203952180,bench,yes,regular
+2203952180,name,Stop 122: Glenlyon Road,regular
+2203952180,network,PTV - Metropolitan Trams,regular
+2203952180,operator,Yarra Trams,regular
+2203952180,public_transport,stop_position,regular
+2203952180,railway,tram_stop,regular
+2203952180,ref,122,regular
+2203952180,shelter,yes,regular
+2203952180,tram,yes,regular
+2203952180,wheelchair,no,regular
+2204310593,name,Stop 25: Miller Street,regular
+2204310593,network,PTV - Metropolitan Trams,regular
+2204310593,operator,Yarra Trams,regular
+2204310593,public_transport,stop_position,regular
+2204310593,railway,tram_stop,regular
+2204310593,ref,25,regular
+2204310593,tram,yes,regular
+2204674009,name,Stop 15: St David Street,regular
+2204674009,network,PTV - Metropolitan Trams,regular
+2204674009,operator,Yarra Trams,regular
+2204674009,public_transport,stop_position,regular
+2204674009,railway,tram_stop,regular
+2204674009,ref,15,regular
+2204674009,tram,yes,regular
+2209665395,name,Stop 14: Macarthur Road,regular
+2209665395,network,PTV - Metropolitan Trams,regular
+2209665395,operator,Yarra Trams,regular
+2209665395,public_transport,stop_position,regular
+2209665395,railway,tram_stop,regular
+2209665395,ref,14,regular
+2209665395,tram,yes,regular
+2210721411,name,Stop 130: Barrow Street,regular
+2210721411,network,PTV - Metropolitan Trams,regular
+2210721411,operator,Yarra Trams,regular
+2210721411,public_transport,stop_position,regular
+2210721411,railway,tram_stop,regular
+2210721411,ref,130,regular
+2210721411,tram,yes,regular
+2214255696,name,Stop 40: Mansfield Street,regular
+2214255696,network,PTV - Metropolitan Trams,regular
+2214255696,operator,Yarra Trams,regular
+2214255696,public_transport,stop_position,regular
+2214255696,railway,tram_stop,regular
+2214255696,ref,40,regular
+2214255696,tram,yes,regular
+2223067655,name,Stop 36: Rogers Street,regular
+2223067655,network,PTV - Metropolitan Trams,regular
+2223067655,operator,Yarra Trams,regular
+2223067655,public_transport,stop_position,regular
+2223067655,railway,tram_stop,regular
+2223067655,ref,36,regular
+2223067655,tram,yes,regular
+2236727803,name,Stop 20: Lennox Street,regular
+2236727803,network,PTV - Metropolitan Trams,regular
+2236727803,operator,Yarra Trams,regular
+2236727803,public_transport,stop_position,regular
+2236727803,ref,20,regular
+2236727803,tram,yes,regular
+2265523654,name,Stop 112A: Power Street,removed
+2265523654,railway,tram_stop,removed
+2265523654,source,http://yarratrams.com.au/using-trams/service-changes/service-changes/2015/route-55-network-upgrade-work-saturday-23-to-friday-29-may/,regular
+2266558458,name,Stop 5: Bourke Street,regular
+2266558458,network,PTV - Metropolitan Trams,regular
+2266558458,operator,Yarra Trams,regular
+2266558458,public_transport,stop_position,regular
+2266558458,railway,tram_stop,regular
+2266558458,ref,5,regular
+2266558458,tram,yes,regular
+2266686412,bicycle,yes,regular
+2266686412,crossing,traffic_signals,regular
+2266686412,light,yes,crossing
+2266686412,railway,crossing,regular
+2267887408,city,North Melbourne,addr
+2267887408,housenumber,400,addr
+2267887408,postcode,3053,addr
+2267887408,street,William Street,addr
+2267887408,amenity,parking,regular
+2267887408,covered,yes,regular
+2267887408,name,VIP Car Park,regular
+2267887408,parking,surface,regular
+2269152889,name,Stop 28: Bridport Street,regular
+2269152889,network,PTV - Metropolitan Trams,regular
+2269152889,operator,Yarra Trams,regular
+2269152889,public_transport,stop_position,regular
+2269152889,railway,tram_stop,regular
+2269152889,ref,28,regular
+2269152889,tram,yes,regular
+2269152889,wheelchair,no,regular
+2270156864,amenity,bench,regular
+2273617641,name,"Stop 37: Toorak Station, Orrong Road",regular
+2273617641,network,PTV - Metropolitan Trams,regular
+2273617641,operator,Yarra Trams,regular
+2273617641,public_transport,stop_position,regular
+2273617641,railway,tram_stop,regular
+2273617641,ref,37,regular
+2273617641,tram,yes,regular
+2274622376,city,Melbourne,addr
+2274622376,housenumber,599,addr
+2274622376,postcode,3000,addr
+2274622376,street,Elizabeth Street,addr
+2274622376,amenity,cafe,regular
+2274622376,cuisine,pizza,regular
+2274622376,name,Café Perri,regular
+2274622376,outdoor_seating,yes,regular
+2274622376,phone,+93292599,regular
+2286233334,amenity,doctors,regular
+2286233334,name,Melbourne North Medical Clinic,regular
+2291030440,city,Clifton Hill,addr
+2291030440,housenumber,151,addr
+2291030440,postcode,3068,addr
+2291030440,street,Queens Parade,addr
+2291030440,name,Childplay,regular
+2291030440,opening_hours,Mo-We 10:00-17:00; Th-Fr 9:30-17:30; Sa 9:30-17:00; Su 11:00-15:00,regular
+2291030440,phone,+94897037,regular
+2291030440,shop,toys,regular
+2291030440,website,http://childplay.com.au/,regular
+2296842837,street,Flinders Street,addr
+2296842837,name,Liberated Bookshop,regular
+2296842837,shop,books,regular
+2299087302,source,Bing,regular
+2299087302,traffic_calming,hump,regular
+2302923281,source,Bing,regular
+2302923281,traffic_calming,hump,regular
+2317756866,city,Melbourne,addr
+2317756866,housenumber,479,addr
+2317756866,postcode,3004,addr
+2317756866,street,St Kilda Road,addr
+2317756866,source,survey,regular
+2320296521,city,Richmond,addr
+2320296521,housenumber,8,addr
+2320296521,postcode,3121,addr
+2320296521,street,Corsair Street,addr
+2320296521,amenity,kindergarten,regular
+2320296521,name,Alpha Children's Centre and Kindergarten,regular
+2320296521,operator,Australian Greek Welfare Society,regular
+2320296521,phone,+94291488,regular
+2320296521,website,http://www.agws.com.au/,regular
+2324975789,highway,traffic_signals,regular
+2345097756,city,Footscray,addr
+2345097756,postcode,3011,addr
+2345097756,street,Irving Street,addr
+2345097756,internet_access,no,regular
+2345097756,name,Visa Permit Australia,regular
+2345097756,office,company,regular
+2351817407,city,South Melbourne,addr
+2351817407,housenumber,111,addr
+2351817407,postcode,3205,addr
+2351817407,street,Park Street,addr
+2355622330,city,Clifton Hill,addr
+2355622330,housenumber,354-356,addr
+2355622330,postcode,3068,addr
+2355622330,street,Queens Parade,addr
+2355622330,amenity,cafe,regular
+2355622330,name,Cavallini,regular
+2355622330,outdoor_seating,yes,regular
+2355622330,phone,+94863883,regular
+2355622330,website,http://www.cavallini.com.au/,regular
+2366743914,street,Hopkins Street,addr
+2366743914,amenity,restaurant,regular
+2366743914,cuisine,japanese,regular
+2366743914,name,Sekai Japanese Ramen,regular
+2417777936,power,pole,regular
+2417805508,power,pole,regular
+2418361306,power,pole,regular
+2418668714,power,pole,regular
+2418696407,power,pole,regular
+2418906576,power,pole,regular
+2419363991,power,pole,regular
+2419415774,power,pole,regular
+2419761269,power,pole,regular
+2420374238,power,pole,regular
+2420553713,power,pole,regular
+2421290339,power,pole,regular
+2421355649,power,pole,regular
+2421382348,power,pole,regular
+2421394438,power,pole,regular
+2421404785,power,pole,regular
+2421421251,power,pole,regular
+2421453987,power,pole,regular
+2421523126,power,pole,regular
+2421601607,entrance,yes,regular
+2421601607,name,Door 1,regular
+2421601607,source,survey,regular
+2421827062,power,pole,regular
+2422388317,power,pole,regular
+2430664208,crossing,uncontrolled,regular
+2430664208,highway,crossing,regular
+2431921193,highway,traffic_signals,regular
+2432266944,power,pole,regular
+2432307687,power,pole,regular
+2436275593,power,pole,regular
+2436461334,power,pole,regular
+2438127869,power,pole,regular
+2438127869,source,nearmap,regular
+2438142442,power,pole,regular
+2440028103,power,pole,regular
+2440042940,power,pole,regular
+2440060836,power,pole,regular
+2445406728,power,pole,regular
+2462688254,power,pole,regular
+2469566594,city,Collingwood,addr
+2469566594,housenumber,195,addr
+2469566594,postcode,3066,addr
+2469566594,street,Johnston Street,addr
+2469566594,amenity,cafe,regular
+2469566594,name,Dog House,regular
+2469566594,phone,+94174253,regular
+2469566594,website,http://doghouseaustralia.com.au,regular
+2469566594,wheelchair,yes,regular
+2471679639,power,pole,regular
+2471754312,power,pole,regular
+2472147983,power,pole,regular
+2473029653,power,pole,regular
+2473030572,power,pole,regular
+2473038964,power,pole,regular
+2474724664,power,pole,regular
+2474737738,power,pole,regular
+2474764864,power,pole,regular
+2480671543,power,pole,regular
+2487215030,power,pole,regular
+2487271270,power,pole,regular
+2487477540,power,pole,regular
+2504584221,housenumber,523-533,addr
+2504584221,street,Victoria Street,addr
+2504584221,name,Midas,regular
+2504584221,shop,car_repair,regular
+2507243356,traffic_calming,hump,regular
+2509158838,amenity,restaurant,regular
+2509158838,name,3 Station Pier,regular
+2512502092,power,pole,regular
+2513374446,power,pole,regular
+2513604393,power,pole,regular
+2521929224,power,pole,regular
+2548291829,amenity,shelter,regular
+2548291829,name,Clematis Pavillion,regular
+2559653740,crossing,traffic_signals,regular
+2559653740,highway,crossing,regular
+2614490990,highway,traffic_signals,regular
+2623009222,highway,bus_stop,regular
+2631959411,amenity,bench,regular
+2646542611,crossing,automatic_barrier,regular
+2646542611,barrier,gate,crossing
+2646542611,railway,crossing,regular
+2653585225,city,Richmond,addr
+2653585225,housenumber,40,addr
+2653585225,postcode,3121,addr
+2653585225,street,Victoria Street,addr
+2653585225,amenity,restaurant,regular
+2653585225,cuisine,vietnamese,regular
+2653585225,name,Binh Minh,regular
+2653585225,opening_hours,Mo-Fr 11:00-23:00; Sa-Su 16:00-00:00,regular
+2656917827,name,Collingwood,regular
+2656917827,operator,Public Transport Victoria - Metro,regular
+2656917827,public_transport,station,regular
+2656917827,railway,station,regular
+2662245085,traffic_calming,hump,regular
+2668165269,traffic_calming,hump,regular
+2670012254,housenumber,9,addr
+2672754489,housenumber,1,addr
+2672754489,street,Laity Street,addr
+2672754489,date,2014-02-15,survey
+2672754698,housenumber,186,addr
+2672754698,street,Church Street,addr
+2672754698,date,2014-02-15,survey
+2672754903,housenumber,24,addr
+2672754903,street,Laity Street,addr
+2672754903,date,2014-02-15,survey
+2672755094,housenumber,308,addr
+2672755094,street,Coppin Street,addr
+2672755094,date,2014-02-15,survey
+2672755301,housenumber,39,addr
+2672755301,street,Nicholson Street,addr
+2672755301,date,2014-02-15,survey
+2672755391,housenumber,52,addr
+2672755391,street,Lincoln Street,addr
+2672755391,date,2014-02-15,survey
+2672755480,housenumber,71,addr
+2672755480,street,Laity Street,addr
+2672755480,date,2014-02-15,survey
+2672755675,housenumber,82,addr
+2672755675,street,Laity Street,addr
+2672755675,name,Under construction (houses),regular
+2672755675,date,2014-02-15,survey
+2676262705,traffic_calming,hump,regular
+2678593714,housenumber,191,addr
+2678593714,street,Hotham Street,addr
+2678593714,date,2014-02-16,survey
+2678597255,housenumber,17,addr
+2678597255,street,Shelley Street,addr
+2678597255,date,2014-02-16,survey
+2678597474,housenumber,50,addr
+2678597474,street,Lennox Street,addr
+2678597474,date,2014-02-16,survey
+2678597651,amenity,waste_basket,regular
+2678597651,date,2014-02-16,survey
+2678597651,waste,needles,regular
+2690754173,housenumber,990,addr
+2690754173,street,La Trobe Street,addr
+2690754173,amenity,cafe,regular
+2690754173,cuisine,coffee_shop,regular
+2690754173,internet_access,no,regular
+2690754173,name,Cafenetics,regular
+2690754173,phone,96704442,regular
+2690754173,website,http://www.cafenatics.com.au/locations/990-la-trobe,regular
+2690754173,wheelchair,yes,regular
+2692573959,information,map,regular
+2692573959,name,Civic Guide,regular
+2692573959,tourism,information,regular
+2694320626,amenity,bench,regular
+2694320626,backrest,yes,regular
+2694320626,seats,6,regular
+2694320626,date,2014-02-17,survey
+2694389723,housenumber,169,addr
+2694389723,street,Nicholson Street,addr
+2694389723,date,2014-02-17,survey
+2694389892,housenumber,201,addr
+2694389892,date,2014-02-17,survey
+2694390065,city,Abbotsford,addr
+2694390065,country,AU,addr
+2694390065,housenumber,93b,addr
+2694390065,postcode,3067,addr
+2694390065,state,Victoria,addr
+2694390065,street,Park Street,addr
+2694390065,date,2014-02-17,survey
+2697593551,amenity,waste_basket,regular
+2699248328,amenity,post_box,regular
+2707976507,amenity,drinking_water,regular
+2713476606,amenity,bench,regular
+2716427117,city,Fitzroy,addr
+2716427117,housenumber,359,addr
+2716427117,postcode,3065,addr
+2716427117,street,Kerr Street,addr
+2716427117,amenity,cafe,regular
+2716427117,internet_access,no,regular
+2716427117,name,ICI,regular
+2716427117,opening_hours,07:00-15:00,regular
+2720460571,city,Carlton North,addr
+2720460571,housenumber,585A,addr
+2720460571,postcode,3054,addr
+2720460571,street,Canning Street,addr
+2720460571,amenity,cafe,regular
+2720460571,building,yes,regular
+2720460571,name,Café BÜ,regular
+2720460571,opening_hours,Mo-Fr 07:00-15:00; Sa-Su 08:00-16:00,regular
+2720460571,website,https://www.facebook.com/CafeBuCarltonNorth,regular
+2732960561,city,Collingwood,addr
+2732960561,housenumber,44,addr
+2732960561,postcode,3066,addr
+2732960561,street,Smith Street,addr
+2732960561,name,Fox Body Art,regular
+2732960561,phone,+94172600,regular
+2732960561,shop,tattoo,regular
+2732960561,website,http://www.foxbodyart.com,regular
+2733238830,traffic_calming,hump,regular
+2735583369,barrier,gate,regular
+2753274565,amenity,bicycle_parking,regular
+2753274565,bicycle_parking,stands,regular
+2753274565,capacity,2,regular
+2760171091,amenity,vending_machine,regular
+2760171091,vending,drinks,regular
+2807743103,amenity,bank,regular
+2807743103,name,BOQ,regular
+2808854920,traffic_calming,hump,regular
+2905756407,traffic_calming,hump,regular
+2913927740,amenity,bbq,regular
+2913927740,fuel,electric,regular
+2941319261,natural,tree,regular
+2941319331,natural,tree,regular
+2941320365,natural,tree,regular
+2941590699,natural,tree,regular
+2941596470,natural,tree,regular
+2944929801,highway,turning_circle,regular
+2962219893,housenumber,39,addr
+2962219893,street,Waltham Street,addr
+2962219893,date,2014-02-24,survey
+2963998235,housenumber,297,addr
+2963998235,street,Victoria Street,addr
+2963998235,date,2014-02-16,survey
+2963998285,city,Abbotsford,addr
+2963998285,country,AU,addr
+2963998285,housenumber,71,addr
+2963998285,postcode,3067,addr
+2963998285,state,Victoria,addr
+2963998285,street,Charles Street,addr
+2963998285,date,2014-02-16,survey
+2967037051,housenumber,22,addr
+2967037051,street,Albert Street,addr
+2967037051,date,2014-02-16,survey
+2967037103,housenumber,70,addr
+2967037103,street,William Street,addr
+2967037103,date,2014-02-16,survey
+2967254159,housenumber,10,addr
+2967254159,street,Bond Street,addr
+2967254159,date,2014-02-22,survey
+2967254209,housenumber,7,addr
+2967254209,street,Cooke Street,addr
+2967254209,date,2014-02-22,survey
+2975246301,entrance,yes,regular
+2987265133,amenity,bench,regular
+3001751333,amenity,waste_basket,regular
+3009770709,amenity,pub,regular
+3009770709,name,Mama bear,regular
+3066362933,housenumber,145,addr
+3066362933,street,Dover Street,addr
+3101319434,city,Collingwood,addr
+3101319434,housenumber,6,addr
+3101319434,postcode,3066,addr
+3101319434,street,Smith Street,addr
+3101319434,name,Manfax Paint and Hardware,regular
+3101319434,opening_hours,Mo-Fr 7:30-17:15; Sa 8:00-16:00,regular
+3101319434,shop,hardware,regular
+3101319434,wheelchair,yes,regular
+3162736033,power,pole,regular
+3204426723,highway,street_lamp,regular
+3238909559,leisure,picnic_table,regular
+3269958061,name,Jeanswest,regular
+3269958061,shop,clothes,regular
+3276141239,amenity,bureau_de_change,regular
+3276141239,name,United,regular
+3291840662,amenity,cafe,regular
+3291840662,name,Hugo's Express,regular
+3293343021,natural,tree,regular
+3311820212,housenumber,442,addr
+3311820212,street,Collins Street,addr
+3317846708,amenity,bench,regular
+3317846708,backrest,yes,regular
+3317846708,colour,gray,regular
+3317846708,material,metal,regular
+3317846708,seats,50,regular
+3326760725,display,digital,regular
+3326760725,man_made,monitoring_station,regular
+3326760725,bicycle,yes,monitoring
+3326760725,name,Capital City Trail,regular
+3326760725,start_date,2013,regular
+3326760725,support,pole,regular
+3326760725,visibility,street,regular
+3326760725,website,http://eco-public.com/Public/?id=100009931,regular
+3345061645,highway,crossing,regular
+3345138782,highway,traffic_signals,regular
+3345608728,highway,traffic_signals,regular
+3359298539,highway,traffic_signals,regular
+3360745888,city,Abbotsford,addr
+3360745888,country,AU,addr
+3360745888,housenumber,128,addr
+3360745888,postcode,3067,addr
+3360745888,state,Victoria,addr
+3360745888,street,Gipps Street,addr
+3360745888,source,survey,regular
+3360746840,amenity,bicycle_parking,regular
+3360746840,capacity,2,regular
+3360746840,source,survey,regular
+3363089114,highway,traffic_signals,regular
+3367904401,highway,traffic_signals,regular
+3373053619,highway,traffic_signals,regular
+3374134101,highway,traffic_signals,regular
+3376061069,housenumber,770,addr
+3376061069,street,High Street,addr
+3376061069,building,yes,regular
+3377509252,amenity,parking,regular
+3383772366,housenumber,872,addr
+3383772366,street,Sydney Road,addr
+3383772366,building,yes,regular
+3390574047,highway,traffic_signals,regular
+3394726640,highway,traffic_signals,regular
+3394781933,highway,traffic_signals,regular
+3417420827,entrance,yes,regular
+3418896125,barrier,gate,regular
+3442391197,amenity,waste_basket,regular
+3463257237,amenity,theatre,regular
+3463257237,name,Sunderland Theatre,regular
+3481124187,city,North Melbourne,addr
+3481124187,country,AU,addr
+3481124187,housenumber,11,addr
+3481124187,postcode,3051,addr
+3481124187,state,Victoria,addr
+3481124187,street,Errol Street,addr
+3481124187,amenity,fast_food,regular
+3481124187,cuisine,fish_and_chips,regular
+3481124187,name,Salt,regular
+3481124187,opening_hours,Mo-Fr 11:30-21:00; Sa-Su 12:00-21:00,regular
+3481124187,outdoor_seating,yes,regular
+3481124187,coins,yes,payment
+3481124187,maestro,yes,payment
+3481124187,mastercard,yes,payment
+3481124187,notes,yes,payment
+3481124187,visa,yes,payment
+3481124187,visa_debit,yes,payment
+3481124187,phone,+93282829,regular
+3481124187,smoking,no,regular
+3481124187,takeaway,yes,regular
+3481124187,wheelchair,yes,regular
+3494348622,amenity,drinking_water,regular
+3508072912,city,Richmond,addr
+3508072912,country,AU,addr
+3508072912,housenumber,304,addr
+3508072912,postcode,3121,addr
+3508072912,state,Victoria,addr
+3508072912,street,Church Street,addr
+3508072912,source,survey,regular
+3512393733,name,St Brendan's Church,regular
+3522857445,amenity,college,regular
+3522857445,name,Evolve College,regular
+3608341897,city,Collingwood,addr
+3608341897,housenumber,73,addr
+3608341897,postcode,3066,addr
+3608341897,street,Rupert Street,addr
+3608341897,amenity,bar,regular
+3608341897,name,Rupert on Rupert,regular
+3608341897,website,http://rupertonrupert.com.au/,regular
+3662346807,amenity,waste_basket,regular
+3662346807,source,survey,regular
+3683237999,housenumber,509,addr
+3683237999,street,High Street,addr
+3683237999,building,yes,regular
+3685576633,housenumber,3,addr
+3685576633,street,Railway Street,addr
+3685576633,building,yes,regular
+3722167596,city,South Yarra,addr
+3722167596,postcode,3141,addr
+3722167596,street,Punt Road,addr
+3722167596,name,7-Eleven,regular
+3722167596,shop,convenience,regular
+3731163526,natural,tree,regular
+3755325126,housenumber,143,addr
+3755325126,street,Victoria Parade,addr
+3755325126,amenity,cafe,regular
+3755325126,name,The Lunch Box,regular
+3775880059,name,Plaza Deli,regular
+3775880059,shop,deli,regular
+3779069822,highway,traffic_signals,regular
+3783291001,traffic_calming,hump,regular
+3879095940,power,pole,regular
+3879739054,power,pole,regular
+3880968504,power,pole,regular
+3881422157,leisure,pitch,regular
+3881422157,sport,basketball,regular
+3881737087,power,pole,regular
+3885306979,name,Plush,regular
+3885306979,shop,furniture,regular
+3922729771,bus,yes,regular
+3922729771,highway,bus_stop,regular
+3922729771,name,Brunswick Street,regular
+3922729771,network,PTV - Metropolitan Buses,regular
+3922729771,operator,Dysons,regular
+3922729771,public_transport,platform,regular
+3922729771,route_ref,546,regular
+3922729771,shelter,yes,regular
+3922937457,amenity,pharmacy,regular
+3922937457,name,Thao Nguyen Pharmacy,regular
+3924718753,name,Stop 116: Fenwick Street,regular
+3924718753,network,PTV - Metropolitan Trams,regular
+3924718753,operator,Yarra Trams,regular
+3924718753,public_transport,platform,regular
+3924718753,ref,116,regular
+3924718753,route_ref,1;8,regular
+3924718753,tram,yes,regular
+3925153646,name,Stop 14: Arts Precinct,regular
+3925153646,network,PTV - Metropolitan Buses,regular
+3925153646,operator,Yarra Trams,regular
+3925153646,public_transport,stop_position,regular
+3925153646,ref,14,regular
+3925153646,tram,yes,regular
+3926434755,bus,yes,regular
+3926434755,name,Toorak Road,regular
+3926434755,network,PTV - Metropolitan Buses,regular
+3926434755,operator,Eastrans,regular
+3926434755,public_transport,stop_position,regular
+3933090382,highway,traffic_signals,regular
+3937076857,amenity,waste_basket,regular
+3937113675,name,Stop 13: Lansdowne Street,regular
+3937113675,network,PTV - Metropolitan Trams,regular
+3937113675,operator,Yarra Trams,regular
+3937113675,public_transport,stop_position,regular
+3937113675,ref,13,regular
+3937113675,tram,yes,regular
+3942998909,name,Coles,regular
+3942998909,opening_hours,Closes 11pm,regular
+3942998909,shop,supermarket,regular
+3942998909,website,http://www.coles.con.au,regular
+3945796055,check_date,2017-02-15,regular
+3945796055,name,Stop 2: Market Street (closed until late 2019),regular
+3945796055,network,PTV - Metropolitan Trams,regular
+3945796055,opening_date,2019,regular
+3945796055,source,https://www.ptv.vic.gov.au/live-travel-updates/article/route-55-temporary-tram-stop-closure-from-monday-13-february-2017-to-late-2019/,opening_date
+3945796055,operator,Yarra Trams,regular
+3945796055,public_transport,platform,regular
+3945796055,ref,2,regular
+3945796055,tram,yes,regular
+3947038089,name,Stop D15: Batman's Hill,regular
+3947038089,network,PTV - Metropolitan Trams,regular
+3947038089,operator,Yarra Trams,regular
+3947038089,public_transport,stop_position,regular
+3947038089,ref,D15,regular
+3947038089,tram,yes,regular
+3949687614,city,Fitzroy,addr
+3949687614,housenumber,420,addr
+3949687614,street,Brunswick Street,addr
+3949687614,name,Antiques & Collectables,regular
+3949687614,shop,antiques,regular
+3961293491,name,Stop 29: Merton Street,regular
+3961293491,network,PTV - Metropolitan Trams,regular
+3961293491,operator,Yarra Trams,regular
+3961293491,public_transport,stop_position,regular
+3961293491,ref,29,regular
+3961293491,tram,yes,regular
+3967629868,name,Southern Cross,regular
+3967629868,network,PTV - Regional Trains,regular
+3967629868,operator,V/Line,regular
+3967629868,public_transport,stop_position,regular
+3967629868,ref,SSS,regular
+3967629868,train,yes,regular
+3970811101,crossing,traffic_signals,regular
+3970811101,highway,crossing,regular
+3987318539,highway,speed_camera,regular
+3987318539,maxspeed,70,regular
+4000075633,highway,traffic_signals,regular
+4013820215,entrance,main,regular
+4017426048,leisure,park,regular
+4017426048,name,A.W. Knight Reserve,regular
+4064857281,highway,bus_stop,regular
+4065854692,city,Docklands,addr
+4065854692,housenumber,757,addr
+4065854692,postcode,3008,addr
+4065854692,street,Bourke Street,addr
+4065854692,amenity,pub,regular
+4065854692,name,Nixon Hotel,regular
+4065854692,phone,+96423272,regular
+4065854692,website,http://www.nixonhotel.com.au/,regular
+4068018001,city,Collingwood,addr
+4068018001,housenumber,77,addr
+4068018001,postcode,3066,addr
+4068018001,street,Cambridge Street,addr
+4068018001,name,Lindberg Galleries,regular
+4068018001,opening_hours,We-Sa 11:00-17:00,regular
+4068018001,shop,art,regular
+4068018001,website,http://lindbergcontemporary.com.au/,regular
+4097061842,name,Stop 33: Hobson Street,regular
+4097061842,network,PTV - Metropolitan Trams,regular
+4097061842,operator,Yarra Trams,regular
+4097061842,public_transport,stop_position,regular
+4097061842,railway,tram_stop,regular
+4097061842,ref,33,regular
+4097061842,tram,yes,regular
+4138473906,natural,tree,regular
+4148845985,name,Stop 7E: Punt Road,regular
+4148845985,network,PTV - Metropolitan Trams,regular
+4148845985,operator,Yarra Trams,regular
+4148845985,public_transport,stop_position,regular
+4148845985,ref,7E,regular
+4148845985,tram,yes,regular
+4157116113,name,Burnley,regular
+4157116113,network,PTV - Metropolitan Trains,regular
+4157116113,operator,Metro Trains Melbourne,regular
+4157116113,public_transport,stop_position,regular
+4157116113,ref,BLY,regular
+4157116113,train,yes,regular
+4169720255,name,Hawthorn,regular
+4169720255,network,PTV - Metropolitan Trains,regular
+4169720255,operator,Metro Trains Melbourne,regular
+4169720255,public_transport,stop_position,regular
+4169720255,ref,HAW,regular
+4169720255,train,yes,regular
+4204128190,housenumber,63,addr
+4204128190,street,Noone Street,addr
+4204128190,building,yes,regular
+4213415836,amenity,atm,regular
+4213415836,name,Westpac,regular
+4242570441,housenumber,204 - 206,addr
+4242570441,street,Arden Street,addr
+4242570441,leisure,sports_centre,regular
+4242570441,name,North Melbourne Football Club,regular
+4248321541,city,Melbourne,addr
+4248321541,housenumber,15,addr
+4248321541,postcode,3000,addr
+4248321541,street,Collins Street,addr
+4248321541,level,11,regular
+4248321541,name,Dr Johannes Kern - Melbourne Skin Clinic. Dermatologist,regular
+4248321541,wheelchair,yes,regular
+4269463945,city,Melbourne,addr
+4269463945,postcode,VIC 3000,addr
+4269463945,street,Collins Street,addr
+4269463945,name,Tafts the Pen people,regular
+4271393502,amenity,bicycle_parking,regular
+4271393502,capacity,10,regular
+4273127389,bus,yes,regular
+4273127389,name,Ferrars Street,regular
+4273127389,network,PTV - Metropolitan Buses,regular
+4273127389,operator,Transdev,regular
+4273127389,public_transport,stop_position,regular
+4294470749,name,Stop 25: Albert Street,regular
+4294470749,network,PTV - Metropolitan Trams,regular
+4294470749,operator,Yarra Trams,regular
+4294470749,public_transport,platform,regular
+4294470749,ref,25,regular
+4294470749,route_ref,96,regular
+4294470749,tram,yes,regular
+4297530183,name,Stop 15: Smith Street,regular
+4297530183,network,PTV - Metropolitan Trams,regular
+4297530183,operator,Yarra Trams,regular
+4297530183,public_transport,platform,regular
+4297530183,ref,15,regular
+4297530183,route_ref,86,regular
+4297530183,tram,yes,regular
+4299355289,level,0,regular
+4299355289,name,Soap Bar Launderette,regular
+4299355289,opening_hours,06:30-23:00,regular
+4299355289,shop,laundry,regular
+4299355289,opening_hours,survey,source
+4299355289,website,www.soap-bar.com.au,regular
+4299355289,wheelchair,yes,regular
+4302888739,housenumber,211,addr
+4302888739,street,La Trobe Street,addr
+4302888739,amenity,restaurant,regular
+4302888739,name,Hudson coffee,regular
+4307006922,bus,yes,regular
+4307006922,name,Clifton Hill Interchange,regular
+4307006922,network,PTV - Metropolitan Buses,regular
+4307006922,operator,Transdev,regular
+4307006922,public_transport,platform,regular
+4307006922,ref,25,regular
+4307006922,shelter,yes,regular
+4307006972,name,Stop 23: Park Street,regular
+4307006972,network,PTV - Metropolitan Trams,regular
+4307006972,operator,Yarra Trams,regular
+4307006972,public_transport,platform,regular
+4307006972,ref,23,regular
+4307006972,route_ref,11,regular
+4307006972,tram,yes,regular
+4309105907,name,Stop 41: Collins Street,regular
+4309105907,network,PTV - Metropolitan Trams,regular
+4309105907,operator,Yarra Trams,regular
+4309105907,public_transport,platform,regular
+4309105907,ref,41,regular
+4309105907,route_ref,86,regular
+4309105907,tram,yes,regular
+4315827336,name,Stop 48: Wilson Street,regular
+4315827336,network,PTV - Metropolitan Trams,regular
+4315827336,operator,Yarra Trams,regular
+4315827336,public_transport,platform,regular
+4315827336,ref,48,regular
+4315827336,route_ref,78,regular
+4315827336,tram,yes,regular
+4321892445,natural,tree,regular
+4321896695,natural,tree,regular
+4324937200,name,Stop 24: Blyth Street,regular
+4324937200,network,PTV - Metropolitan Trams,regular
+4324937200,operator,Yarra Trams,regular
+4324937200,public_transport,platform,regular
+4324937200,ref,24,regular
+4324937200,route_ref,19,regular
+4324937200,tram,yes,regular
+4326397422,bus,yes,regular
+4326397422,name,Princes Park,regular
+4326397422,network,PTV - Metropolitan Buses,regular
+4326397422,operator,Dysons,regular
+4326397422,public_transport,stop_position,regular
+4351781233,housenumber,336,addr
+4351781233,street,Toorak Road,addr
+4351781233,building,yes,regular
+4362288150,entrance,yes,regular
+4362288150,wheelchair,no,regular
+4367162745,amenity,drinking_water,regular
+4392883420,amenity,post_box,regular
+4392883420,operator,Australia Post,regular
+4406867174,name,Essendon,regular
+4406867174,network,PTV,regular
+4406867174,operator,Metro Trains Melbourne;V/Line,regular
+4406867174,public_transport,stop_position,regular
+4406867174,ref,ESD,regular
+4406867174,train,yes,regular
+4413196741,bus,yes,regular
+4413196741,name,Footscray Station,regular
+4413196741,network,PTV - Metropolitan Buses,regular
+4413196741,operator,Sita,regular
+4413196741,public_transport,stop_position,regular
+4418501631,natural,tree,regular
+4418501681,natural,tree,regular
+4418501731,natural,tree,regular
+4423517767,housenumber,49,addr
+4423517767,street,Peel Street,addr
+4423517767,building,yes,regular
+4427569745,bus,yes,regular
+4427569745,name,Commercial Road,regular
+4427569745,network,PTV - Metropolitan Buses,regular
+4427569745,not_served_by,223;941;942;952,regular
+4427569745,operator,CDC Melbourne,regular
+4427569745,public_transport,platform,regular
+4427569745,route_ref,406,regular
+4427569795,name,Stop 57: Titch Street,regular
+4427569795,network,PTV - Metropolitan Trams,regular
+4427569795,operator,Yarra Trams,regular
+4427569795,public_transport,platform,regular
+4427569795,ref,57,regular
+4427569795,route_ref,82,regular
+4427569795,tram,yes,regular
+4443667819,housenumber,12,addr
+4443667819,street,Ramsden Street,addr
+4454744687,name,Stop 37: Maribyrnong Road,regular
+4454744687,network,PTV - Metropolitan Trams,regular
+4454744687,operator,Yarra Trams,regular
+4454744687,public_transport,platform,regular
+4454744687,ref,37,regular
+4454744687,route_ref,57,regular
+4454744687,tram,yes,regular
+4457663105,name,Stop 22: Boundary Road,regular
+4457663105,network,PTV - Metropolitan Trams,regular
+4457663105,operator,Yarra Trams,regular
+4457663105,public_transport,platform,regular
+4457663105,ref,22,regular
+4457663105,route_ref,57,regular
+4457663105,tram,yes,regular
+4460254017,name,Stop 10: Chetwynd Street,regular
+4460254017,network,PTV - Metropolitan Trams,regular
+4460254017,operator,Yarra Trams,regular
+4460254017,public_transport,platform,regular
+4460254017,ref,10,regular
+4460254017,route_ref,57,regular
+4460254017,tram,yes,regular
+4466277335,housenumber,490,addr
+4466277335,street,Toorak Road,addr
+4466277335,building,yes,regular
+4480814892,amenity,cafe,regular
+4480814892,name,Proving Grounds,regular
+4480814892,en,Proving Grounds,name
+4511498369,city,Melbourne,addr
+4511498369,housenumber,380,addr
+4511498369,postcode,3000,addr
+4511498369,street,Russell Street,addr
+4511498369,internet_access,wlan,regular
+4511498369,fee,yes,internet_access
+4511498369,name,Space Hotel,regular
+4511498369,phone,+96623888,regular
+4511498369,stars,3,regular
+4511498369,tourism,hotel,regular
+4511498369,website,https://www.spacehotel.com.au,regular
+4520380568,bus,yes,regular
+4520380568,name,Royal Park Station,regular
+4520380568,network,PTV - Metropolitan Buses,regular
+4520380568,operator,Dysons,regular
+4520380568,public_transport,stop_position,regular
+4520380618,bus,yes,regular
+4520380618,name,Melville Road,regular
+4520380618,network,PTV - Metropolitan Buses,regular
+4520380618,operator,Moonee Valley,regular
+4520380618,public_transport,stop_position,regular
+4533385721,housenumber,582,addr
+4533385721,street,Swan Street,addr
+4533385721,building,yes,regular
+4561248557,barrier,gate,regular
+4564648821,housenumber,10 - 12,addr
+4564648821,street,Cecil Street,addr
+4564648821,building,yes,regular
+4580559890,name,East Brunswick Tattoo,regular
+4580559890,en,East Brunswick Tattoo,name
+4580559890,tourism,artwork,regular
+4603481587,highway,stop,regular
+4630856477,city,North Melbourne,addr
+4630856477,housenumber,45,addr
+4630856477,postcode,3051,addr
+4630856477,street,Silk Place,addr
+4630859856,natural,tree,regular
+4631371924,city,West Melbourne,addr
+4631371924,housenumber,1,addr
+4631371924,postcode,3003,addr
+4631371924,street,Miller Street,addr
+4633550155,city,West Melbourne,addr
+4633550155,housenumber,43,addr
+4633550155,postcode,3003,addr
+4633550155,street,Miller Street,addr
+4633550205,city,West Melbourne,addr
+4633550205,housenumber,588,addr
+4633550205,postcode,3003,addr
+4633550205,street,Spencer Street,addr
+4633712348,city,West Melbourne,addr
+4633712348,housenumber,13,addr
+4633712348,postcode,3003,addr
+4633712348,street,Stawell Street,addr
+4633712348,amenity,cafe,regular
+4633712348,name,Roller Door Cafe,regular
+4633712348,opening_hours,Mo-We 07:00-15:00; Th-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-16:00,regular
+4633712348,website,http://www.rollerdoorcafe.com,regular
+4633732421,city,West Melbourne,addr
+4633732421,housenumber,250,addr
+4633732421,postcode,3003,addr
+4633732421,street,Adderley Street,addr
+4633732421,name,Nosila,regular
+4633752860,city,West Melbourne,addr
+4633752860,housenumber,78,addr
+4633752860,postcode,3003,addr
+4633752860,street,Railway Place,addr
+4633770187,city,West Melbourne,addr
+4633770187,housenumber,609,addr
+4633770187,postcode,3003,addr
+4633770187,street,Spencer Street,addr
+4637139132,city,West Melbourne,addr
+4637139132,housenumber,176,addr
+4637139132,postcode,3003,addr
+4637139132,street,Stanley Street,addr
+4650584781,city,West Melbourne,addr
+4650584781,housenumber,200,addr
+4650584781,postcode,3003,addr
+4650584781,street,Stanley Street,addr
+4671692590,amenity,pub,regular
+4671692590,name,Father's Office,regular
+4671692590,en,Father's Office,name
+4682792783,housenumber,245 - 247,addr
+4682792783,street,Lygon Street,addr
+4682792783,building,yes,regular
+4686294439,barrier,bollard,regular
+4686294439,bollard,removable,regular
+4686294439,source,GPS,regular
+4688417158,natural,tree,regular
+4700338989,amenity,cafe,regular
+4700338989,name,Zouki Cafe,regular
+4700338989,en,Zouki Cafe,name
+4700338989,opening_hours,Mo-Fr 06:30-17:30,regular
+4717931078,city,Yarraville,addr
+4717931078,housenumber,5,addr
+4717931078,postcode,3013,addr
+4717931078,street,Somerville Road,addr
+4728998189,name,7-eleven,regular
+4728998189,en,7-eleven,name
+4728998189,shop,convenience,regular
+4739150584,natural,tree,regular
+4739157135,natural,tree,regular
+4739157186,natural,tree,regular
+4742273062,natural,tree,regular
+4742273062,species,Celtis australis,regular
+4777836246,city,Seddon,addr
+4777836246,housenumber,4,addr
+4777836246,postcode,3011,addr
+4777836246,street,Bellairs Avenue,addr
+4788735126,amenity,pharmacy,regular
+4788735126,name,Priceline,regular
+4788735126,en,Priceline,name
+4789296577,emergency,fire_hydrant,regular
+4797473401,crossing,island,regular
+4797473401,highway,crossing,regular
+4797473401,kerb,lowered,regular
+4797473401,tactile_paving,no,regular
+4805272740,amenity,waste_basket,regular
+4814933185,highway,bus_stop,regular
+4814933185,name,Highgate St/Benbow St,regular
+4814933185,network,PTV,regular
+4829677205,housenumber,33,addr
+4829677205,street,Spencer Street,addr
+4829677205,building,yes,regular
+4867867589,amenity,bench,regular
+4870950622,amenity,restaurant,regular
+4870950622,name,Geppetto Trattoria,regular
+4870950622,en,Geppetto Trattoria,name
+4884440883,power,pole,regular
+4884445033,location,outdoor,regular
+4884445033,power,switch,regular
+4884445033,switch,circuit_breaker,regular
+4884445033,voltage,220000,regular
+4886942396,city,Melbourne,addr
+4886942396,housenumber,500,addr
+4886942396,street,Bourke Street,addr
+4886942396,amenity,cafe,regular
+4886942396,name,Prime House,regular
+4889720411,amenity,cafe,regular
+4889720411,name,Wild Dogs Cafe,regular
+4889720411,wifi,no,regular
+4905647506,city,Yarraville,addr
+4905647506,housenumber,67,addr
+4905647506,postcode,3013,addr
+4905647506,street,Anderson Street,addr
+4905647506,amenity,doctors,regular
+4905647506,name,Physiotherapy & Clinical Pilates,regular
+4905647506,website,pcpyarraville.com.au,regular
+4926209947,direction,forward,regular
+4926209947,highway,give_way,regular
